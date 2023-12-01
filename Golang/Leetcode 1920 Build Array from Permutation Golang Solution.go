@@ -5,3 +5,14 @@ func buildArray(nums []int) []int {
     }
     return newArray
 }
+
+
+// second solution
+
+func buildArray(nums []int) []int {
+    newArray := []int{}
+    for _, val := range nums {
+        newArray = append(newArray,nums[val])
+    }
+    return newArray
+}
