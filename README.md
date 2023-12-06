@@ -7,8 +7,8 @@
 2. [`2469 Convert the Temperature Golang Solution`](./Golang/Leetcode%202469%20Convert%20the%20Temperature%20Golang%20Solution.go)
 3.  [`2413. Smallest Even Multiple`](./Golang/Leetcode%202413%20Smallest%20Even%20Multiple.go)
 4.  [`412. Fizz Buzz`](./Golang/Leetcode%20412%20Fizz%20Buzz%20Golang.go)
-5.  [``](./Golang/)
-6.  [``](./Golang/)
+5.  [`2769. Find the Maximum Achievable Number`](./Golang/Leetcode%202769%20Find%20the%20Maximum%20Achievable%20Number.go)
+6.  [`2535. Difference Between Element Sum and Digit Sum of an Array`](./Golang/)
 7.  [``](./Golang/)
 8.  [``](./Golang/)
    
