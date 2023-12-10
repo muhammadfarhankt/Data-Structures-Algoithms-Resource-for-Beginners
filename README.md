@@ -16,6 +16,7 @@
 11. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
 12. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
 13.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
+14.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
    
 
 </details>
