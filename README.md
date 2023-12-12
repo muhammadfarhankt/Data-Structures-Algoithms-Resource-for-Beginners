@@ -17,6 +17,7 @@
 12. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
 13.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
 14.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
+15.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
    
 
 </details>
@@ -46,6 +47,7 @@
 	<summary> <strong> Array </strong> </summary>		
 
 1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
+2. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
 </details>
 
 <details>
