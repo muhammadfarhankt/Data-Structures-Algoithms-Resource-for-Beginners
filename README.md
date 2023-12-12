@@ -52,9 +52,10 @@
 <details>
 	<summary> <strong> Hash Maps </strong> </summary>	
 	
-1. [`217. Contains Duplicate`](./Golang/Leetcode%20217%20Contains%20Duplicate.go): Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
-2. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
-3. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go): 
+1. [`1. Two Sum`](./Golang/Leetcode%201%20Two%20Sum.go)
+2. [`217. Contains Duplicate`](./Golang/Leetcode%20217%20Contains%20Duplicate.go): Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+3. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
+4. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go): 
 </details>
 
 <details>
