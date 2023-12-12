@@ -34,7 +34,7 @@
 <details>
 	<summary> <strong> Strings </strong> </summary>	
 	
-1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
+1. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
 </details>
 
 <details>
