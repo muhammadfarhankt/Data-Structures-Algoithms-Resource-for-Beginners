@@ -21,22 +21,6 @@
 
 </details>
 
-
-<details>
-	<summary> <strong> Array </strong> </summary>	
-	
----
-	
-##### Leetcode Solutions:
-1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
-</details>
-
-<details>
-	<summary> <strong> Strings </strong> </summary>	
-	
-1. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
-</details>
-
 <details>
 	<summary> <strong> Linked List </strong> </summary>	
 	
@@ -56,6 +40,17 @@
 2. [`217. Contains Duplicate`](./Golang/Leetcode%20217%20Contains%20Duplicate.go): Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 3. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
 4. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go): 
+</details>
+
+<details>
+	<summary> <strong> Array </strong> </summary>		
+---
+1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
+</details>
+
+<details>
+	<summary> <strong> Strings </strong> </summary>		
+1. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
 </details>
 
 <details>
