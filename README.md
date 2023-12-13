@@ -48,6 +48,7 @@
 
 1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
 2. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
+3. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
 </details>
 
 <details>
