@@ -18,7 +18,7 @@
 13.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
 14.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
 15.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
-   
+16.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
 
 </details>
 
@@ -49,6 +49,7 @@
 1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
 2. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
 3. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
+4. [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
 </details>
 
 <details>
