@@ -7,7 +7,7 @@
 2. [`9. Palindrome Number`](./Golang/Leetcode%209%20Palindrome%20Number.go)
 3. [`2469 Convert the Temperature`](./Golang/Leetcode%202469%20Convert%20the%20Temperature%20Golang%20Solution.go)
 4.  [`2413. Smallest Even Multiple`](./Golang/Leetcode%202413%20Smallest%20Even%20Multiple.go)
-5.  [`412. Fizz Buzz`](./Golang/Leetcode%20412%20Fizz%20Buzz%20Golang.go)
+5.  [`2894. Divisible and Non-divisible Sums Difference`](./Golang/Leetcode%202894%20Divisible%20and%20Non-divisible%20Sums%20Difference.go)
 6.  [`2769. Find the Maximum Achievable Number`](./Golang/Leetcode%202769%20Find%20the%20Maximum%20Achievable%20Number.go)
 7.  [`2535. Difference Between Element Sum and Digit Sum of an Array`](./Golang/Leetcode%202535%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.go)
 8.  [`2427. Number of Common Factors`](./Golang/Leetcode%202427%20Number%20of%20Common%20Factors.go)
