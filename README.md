@@ -7,22 +7,23 @@
 2. [`9. Palindrome Number`](./Golang/Leetcode%209%20Palindrome%20Number.go)
 3. [`2469 Convert the Temperature`](./Golang/Leetcode%202469%20Convert%20the%20Temperature%20Golang%20Solution.go)
 4.  [`2413. Smallest Even Multiple`](./Golang/Leetcode%202413%20Smallest%20Even%20Multiple.go)
-5.  [`2894. Divisible and Non-divisible Sums Difference`](./Golang/Leetcode%202894%20Divisible%20and%20Non-divisible%20Sums%20Difference.go)
-6.  [`2769. Find the Maximum Achievable Number`](./Golang/Leetcode%202769%20Find%20the%20Maximum%20Achievable%20Number.go)
-7.  [`2535. Difference Between Element Sum and Digit Sum of an Array`](./Golang/Leetcode%202535%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.go)
-8.  [`2427. Number of Common Factors`](./Golang/Leetcode%202427%20Number%20of%20Common%20Factors.go)
-9.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
-10.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
-11.  [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
-12.  [`2119. A Number After a Double Reversal`](./Golang/Leetcode%202119%20A%20Number%20After%20a%20Double%20Reversal.go)
-13. [`1304. Find N Unique Integers Sum up to Zero`](./Golang/Leetcode%201304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.go)
-14. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
-15. [`389. Find the Difference`](./Golang/Leetcode%20389%20Find%20the%20Difference%20Golang%20Solution.go)
-16. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
-17.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
-18.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
-19.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
-20.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
+5.  [`2706. Buy Two Chocolates`](./Golang/Leetcode%202706%20Buy%20Two%20Chocolates.go)
+6.  [`2894. Divisible and Non-divisible Sums Difference`](./Golang/Leetcode%202894%20Divisible%20and%20Non-divisible%20Sums%20Difference.go)
+7.  [`2769. Find the Maximum Achievable Number`](./Golang/Leetcode%202769%20Find%20the%20Maximum%20Achievable%20Number.go)
+8.  [`2535. Difference Between Element Sum and Digit Sum of an Array`](./Golang/Leetcode%202535%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.go)
+9.  [`2427. Number of Common Factors`](./Golang/Leetcode%202427%20Number%20of%20Common%20Factors.go)
+10.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
+11.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
+12.  [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
+13.  [`2119. A Number After a Double Reversal`](./Golang/Leetcode%202119%20A%20Number%20After%20a%20Double%20Reversal.go)
+14. [`1304. Find N Unique Integers Sum up to Zero`](./Golang/Leetcode%201304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.go)
+15. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
+16. [`389. Find the Difference`](./Golang/Leetcode%20389%20Find%20the%20Difference%20Golang%20Solution.go)
+17. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
+18.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
+19.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
+20.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
+21.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
 
 </details>
 
@@ -63,13 +64,14 @@
 <details>
 	<summary> <strong> Array </strong> </summary>		
 
-1. [`1913. Maximum Product Difference Between Two Pairs`](./Golang/Leetcode%201913%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.go)
-2. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
-3. [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
-4. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
-5. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
-6. [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
-7. [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
+1. [`2706. Buy Two Chocolates`](./Golang/Leetcode%202706%20Buy%20Two%20Chocolates.go)
+2. [`1913. Maximum Product Difference Between Two Pairs`](./Golang/Leetcode%201913%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.go)
+3. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
+4. [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
+5. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
+6. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
+7. [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
+8. [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
 </details>
 
 <details>
