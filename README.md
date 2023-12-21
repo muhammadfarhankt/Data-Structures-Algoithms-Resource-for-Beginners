@@ -24,6 +24,7 @@
 19.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
 20.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
 21.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
+22.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
 
 </details>
 
@@ -36,7 +37,8 @@
 4. [`141. Linked List Cycle`](./Golang/Leetcode%20141%20Linked%20List%20Cycle.go): Given head, the head of a linked list, determine if the linked list has a cycle in it.
 5. [`19. Remove Nth Node From End of List`](./Golang/Leetcode%2019%20Remove%20Nth%20Node%20From%20End%20of%20List.go): Given the head of a linked list, remove the nth node from the end of the list and return its head.
 6. [`2095. Delete the Middle Node of a Linked List`](./Golang/blob/main/Golang/Leetcode%202095%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.go): You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
-7. [`707. Design Linked List`](./Golang/Leetcode%20707%20Design%20Linked%20List.go): Design your implementation of the linked list.
+7.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
+8. [`707. Design Linked List`](./Golang/Leetcode%20707%20Design%20Linked%20List.go): (Medium) Design your implementation of the linked list.
 </details>
 
 <details>
