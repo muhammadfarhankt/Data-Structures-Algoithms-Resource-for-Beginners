@@ -15,20 +15,21 @@
 10.  [`2535. Difference Between Element Sum and Digit Sum of an Array`](./Golang/Leetcode%202535%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.go)
 11.  [`2544. Alternating Digit Sum`](./Golang/Leetcode%202544%20Alternating%20Digit%20Sum.go)
 12.  [`2427. Number of Common Factors`](./Golang/Leetcode%202427%20Number%20of%20Common%20Factors.go)
-13.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
-14.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
-15.  [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
-16.  [`2119. A Number After a Double Reversal`](./Golang/Leetcode%202119%20A%20Number%20After%20a%20Double%20Reversal.go)
-17. [`1304. Find N Unique Integers Sum up to Zero`](./Golang/Leetcode%201304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.go)
-18. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
-19. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
-20. [`389. Find the Difference`](./Golang/Leetcode%20389%20Find%20the%20Difference%20Golang%20Solution.go)
-21. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
-22.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
-23.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
-24.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
-25.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
-26.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
+13.  [`35. Search Insert Position`](./Golang/Leetcode%2035%20Search%20Insert%20Position.go) : Binary Search Implementation
+14.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
+15.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
+16.  [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
+17.  [`2119. A Number After a Double Reversal`](./Golang/Leetcode%202119%20A%20Number%20After%20a%20Double%20Reversal.go)
+18. [`1304. Find N Unique Integers Sum up to Zero`](./Golang/Leetcode%201304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.go)
+19. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
+20. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
+21. [`389. Find the Difference`](./Golang/Leetcode%20389%20Find%20the%20Difference%20Golang%20Solution.go)
+22. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
+23.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
+24.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
+25.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
+26.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
+27.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
 
 </details>
 
