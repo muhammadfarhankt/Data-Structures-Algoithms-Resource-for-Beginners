@@ -20,25 +20,26 @@
 15.  [`231. Power of Two`](./Golang/Leetcode%20231.%20Power%20of%20Two.go)
 16.  [`35. Search Insert Position`](./Golang/Leetcode%2035%20Search%20Insert%20Position.go) : Binary Search Implementation
 17.  [`455. Assign Cookies`](./Golang/Leetcode%20455%20Assign%20Cookies.go)
-18.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
-19.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
-20.  [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
-21.  [`414. Third Maximum Number`](./Golang/Leetcode%20414.%20Third%20Maximum%20Number.go)
-22.  [`2119. A Number After a Double Reversal`](./Golang/Leetcode%202119%20A%20Number%20After%20a%20Double%20Reversal.go)
-23. [`1304. Find N Unique Integers Sum up to Zero`](./Golang/Leetcode%201304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.go)
-24. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
-25. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
-26. [`389. Find the Difference`](./Golang/Leetcode%20389%20Find%20the%20Difference%20Golang%20Solution.go)
-27. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
-28.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
-29.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
-30.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
-31.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
-32.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
-33.  [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
-34.  [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
-35.  [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
-36.   [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
+18.  [`121. Best Time to Buy and Sell Stock`](./Golang/Leetcode%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.go)
+19.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
+20.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
+21.  [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
+22.  [`414. Third Maximum Number`](./Golang/Leetcode%20414.%20Third%20Maximum%20Number.go)
+23.  [`2119. A Number After a Double Reversal`](./Golang/Leetcode%202119%20A%20Number%20After%20a%20Double%20Reversal.go)
+24. [`1304. Find N Unique Integers Sum up to Zero`](./Golang/Leetcode%201304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.go)
+25. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
+26. [`1688. Count of Matches in Tournament`](./Golang/Leetcode%201688%20Count%20of%20Matches%20in%20Tournament.go)
+27. [`389. Find the Difference`](./Golang/Leetcode%20389%20Find%20the%20Difference%20Golang%20Solution.go)
+28. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
+29.  [`2180. Count Integers With Even Digit Sum`](./Golang/Leetcode%202180%20Count%20Integers%20With%20Even%20Digit%20Sum.go)
+30.  [`7. Reverse Integer`](./Golang/Leetcode%207%20Reverse%20Integer.go)
+31.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
+32.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
+33.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
+34.  [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
+35.  [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
+36.  [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
+37.   [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
 
 </details>
 
@@ -91,21 +92,22 @@
 7. [`2544. Alternating Digit Sum`](./Golang/Leetcode%202544%20Alternating%20Digit%20Sum.go)
 8. [`268. Missing Number`](./Golang/Leetcode%20268.%20Missing%20Number.go)
 9. [`455. Assign Cookies`](./Golang/Leetcode%20455%20Assign%20Cookies.go)
-10. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
-11. [`1913. Maximum Product Difference Between Two Pairs`](./Golang/Leetcode%201913%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.go)
-12. [`2176. Count Equal and Divisible Pairs in an Array`](./Golang/Leetcode%202176%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.go)
-13. [`26. Remove Duplicates from Sorted Array`](./Golang/Leetcode%2026%20Remove%20Duplicates%20from%20Sorted%20Array.go)
-14. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
-15. [`2006. Count Number of Pairs With Absolute Difference K`](./Golang/Leetcode%202006%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.go)
-16. [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
-17. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
-18. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
-19. [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
-20. [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
-21. [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
-22. [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
-23. [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
-24. [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
+10. [`121. Best Time to Buy and Sell Stock`](./Golang/Leetcode%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.go)
+11. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
+12. [`1913. Maximum Product Difference Between Two Pairs`](./Golang/Leetcode%201913%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.go)
+13. [`2176. Count Equal and Divisible Pairs in an Array`](./Golang/Leetcode%202176%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.go)
+14. [`26. Remove Duplicates from Sorted Array`](./Golang/Leetcode%2026%20Remove%20Duplicates%20from%20Sorted%20Array.go)
+15. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
+16. [`2006. Count Number of Pairs With Absolute Difference K`](./Golang/Leetcode%202006%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.go)
+17. [`628. Maximum Product of Three Numbers`](./Golang/Leetcode%20628%20Maximum%20Product%20of%20Three%20Numbers.go)
+18. [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
+19. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
+20. [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
+21. [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
+22. [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
+23. [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
+24. [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
+25. [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
 </details>
 
 <details>
