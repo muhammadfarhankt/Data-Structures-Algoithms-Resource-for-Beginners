@@ -66,7 +66,7 @@
 1. [`1. Two Sum`](./Golang/Leetcode%201%20Two%20Sum.go)
 2. [`217. Contains Duplicate`](./Golang/Leetcode%20217%20Contains%20Duplicate.go): Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 3. [`1748. Sum of Unique Elements`](./Golang/Leetcode%201748%20Sum%20of%20Unique%20Elements.go)
-4. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go]
+4. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go)
 5. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
 6. [`1941. Check if All Characters Have Equal Number of Occurrences`](./Golang/Leetcode%201941%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.go)
 7. [`287. Find the Duplicate Number`](./Golang/Leetcode%20287%20Find%20the%20Duplicate%20Number.go)
@@ -101,7 +101,7 @@
 6. [`2441. Largest Positive Integer That Exists With Its Negative`](./Golang/Leetcode%202441%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.go)
 7. [`2544. Alternating Digit Sum`](./Golang/Leetcode%202544%20Alternating%20Digit%20Sum.go)
 8. [`268. Missing Number`](./Golang/Leetcode%20268.%20Missing%20Number.go)
-9. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go]
+9. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go)
 10. [`455. Assign Cookies`](./Golang/Leetcode%20455%20Assign%20Cookies.go)
 11. [`121. Best Time to Buy and Sell Stock`](./Golang/Leetcode%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.go)
 12. [`2475. Number of Unequal Triplets in Array`](./Golang/Leetcode%202475%20Number%20of%20Unequal%20Triplets%20in%20Array.go)
