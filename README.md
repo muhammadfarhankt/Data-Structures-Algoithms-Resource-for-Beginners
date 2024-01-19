@@ -128,14 +128,15 @@
 1. [`1704. Determine if String Halves Are Alike`](./Golang/Leetcode%201704.%20Determine%20if%20String%20Halves%20Are%20Alike.go)
 2. [`744. Find Smallest Letter Greater Than Target`](./Golang/Leetcode%20744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.go)
 3. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
-4. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
-5. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
-6. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
-7. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
-8. [`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`](./Golang/Leetcode%201689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.go)
-9. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-10. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-11. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+4. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
+6. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
+7. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
+8. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
+9. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
+10. [`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`](./Golang/Leetcode%201689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.go)
+11. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+12. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+13. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
 </details>
 
 <details>
