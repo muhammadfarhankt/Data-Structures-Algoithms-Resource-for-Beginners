@@ -127,8 +127,9 @@
 	
 1. [`1704. Determine if String Halves Are Alike`](./Golang/Leetcode%201704.%20Determine%20if%20String%20Halves%20Are%20Alike.go)
 2. [`744. Find Smallest Letter Greater Than Target`](./Golang/Leetcode%20744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.go)
-3. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
-4. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
+3. [`1528. Shuffle String`](./Golang/Leetcode%201528.%20Shuffle%20String.go)
+4. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
+5. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
 6. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
 7. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
 8. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
