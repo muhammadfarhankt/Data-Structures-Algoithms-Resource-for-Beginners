@@ -55,6 +55,7 @@
 50.  [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
 51.   [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
 52.   [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+53.   [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)z
 
 </details>
 
@@ -139,6 +140,7 @@
 31. [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
 32. [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
 33. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+34. [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)z
 </details>
 
 <details>
@@ -176,6 +178,7 @@
 1. [`144 Binary Tree Preorder Traversal`](./Golang/Leetcode%20144%20Binary%20Tree%20Preorder%20Traversal.go)
 2. [`94 Binary Tree Inorder Traversal`](./Golang/Leetcode%2094%20Binary%20Tree%20Inorder%20Traversal.go)
 3. [`145 Binary Tree Postorder Traversal`](./Golang/Leetcode%20145%20Binary%20Tree%20Postorder%20Traversal.go)
+4. [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)
    
 </details>
 
