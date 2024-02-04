@@ -182,6 +182,7 @@
 2. [`94 Binary Tree Inorder Traversal`](./Golang/Leetcode%2094%20Binary%20Tree%20Inorder%20Traversal.go)
 3. [`145 Binary Tree Postorder Traversal`](./Golang/Leetcode%20145%20Binary%20Tree%20Postorder%20Traversal.go)
 4. [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)
+5. [`1302. Deepest Leaves Sum`](./Golang/Leetcode%201302.%20Deepest%20Leaves%20Sum.go) : Medium
    
 </details>
 
@@ -194,6 +195,7 @@
 3. [`145 Binary Tree Postorder Traversal`](./Golang/Leetcode%20145%20Binary%20Tree%20Postorder%20Traversal.go)
 4. [`938. Range Sum of BST`](./Golang/Leetcode%20938%20Range%20Sum%20of%20BST.go)
 5. [`872. Leaf-Similar Trees`](./Golang/Leetcode%20872%20Leaf-Similar%20Trees.go)
+6. [`1302. Deepest Leaves Sum`](./Golang/Leetcode%201302.%20Deepest%20Leaves%20Sum.go) : Medium
 </details>
 
 <details>
