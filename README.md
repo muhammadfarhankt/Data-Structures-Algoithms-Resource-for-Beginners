@@ -83,27 +83,28 @@
 4. [`1748. Sum of Unique Elements`](./Golang/Leetcode%201748%20Sum%20of%20Unique%20Elements.go)
 5. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go)
 6. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
-7. [`2215. Find the Difference of Two Arrays`](./Golang/Leetcode%202215.%20Find%20the%20Difference%20of%20Two%20Arrays.go)
-8. [`1941. Check if All Characters Have Equal Number of Occurrences`](./Golang/Leetcode%201941%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.go)
-9. [`287. Find the Duplicate Number`](./Golang/Leetcode%20287%20Find%20the%20Duplicate%20Number.go)
-10. [`2154. Keep Multiplying Found Values by Two`](./Golang/Leetcode%202154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.go)
-11. [`575. Distribute Candies`](./Golang/Leetcode%20575%20Distribute%20Candies.go)
-12. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
-13. [`169. Majority Element`](./Golang/Leetcode%20169%20Majority%20Element.go)
-14. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
-15. [`205. Isomorphic Strings`](./Golang/Leetcode%20205%20Isomorphic%20Strings.go)
-16. [`242. Valid Anagram`](./Golang/Leetcode%20242%20Valid%20Anagram.go)
-17. [`1832. Check if the Sentence Is Pangram`](./Golang/Leetcode%201832%20Check%20if%20the%20Sentence%20Is%20Pangram.go)
-18. [`771. Jewels and Stones`](./Golang/Leetcode%20771%20Jewels%20and%20Stones.go)
-19. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
-20. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go)
-21. [`2357. Make Array Zero by Subtracting Equal Amounts`](./Golang/Leetcode%202357%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.go)
-22. [`1370. Increasing Decreasing String`](./Golang/Leetcode%201370%20Increasing%20Decreasing%20String.go)
-23. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
-24. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-25. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-26. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
-27. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+7. [`387. First Unique Character in a String`](./Golang/Leetcode%20387.%20First%20Unique%20Character%20in%20a%20String.go)
+8. [`2215. Find the Difference of Two Arrays`](./Golang/Leetcode%202215.%20Find%20the%20Difference%20of%20Two%20Arrays.go)
+9. [`1941. Check if All Characters Have Equal Number of Occurrences`](./Golang/Leetcode%201941%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.go)
+10. [`287. Find the Duplicate Number`](./Golang/Leetcode%20287%20Find%20the%20Duplicate%20Number.go)
+11. [`2154. Keep Multiplying Found Values by Two`](./Golang/Leetcode%202154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.go)
+12. [`575. Distribute Candies`](./Golang/Leetcode%20575%20Distribute%20Candies.go)
+13. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
+14. [`169. Majority Element`](./Golang/Leetcode%20169%20Majority%20Element.go)
+15. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
+16. [`205. Isomorphic Strings`](./Golang/Leetcode%20205%20Isomorphic%20Strings.go)
+17. [`242. Valid Anagram`](./Golang/Leetcode%20242%20Valid%20Anagram.go)
+18. [`1832. Check if the Sentence Is Pangram`](./Golang/Leetcode%201832%20Check%20if%20the%20Sentence%20Is%20Pangram.go)
+19. [`771. Jewels and Stones`](./Golang/Leetcode%20771%20Jewels%20and%20Stones.go)
+20. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
+21. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go)
+22. [`2357. Make Array Zero by Subtracting Equal Amounts`](./Golang/Leetcode%202357%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.go)
+23. [`1370. Increasing Decreasing String`](./Golang/Leetcode%201370%20Increasing%20Decreasing%20String.go)
+24. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
+25. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+26. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+27. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+28. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
 </details>
 
 <details>
@@ -151,22 +152,24 @@
 	
 1. [`657. Robot Return to Origin`](./Golang/Leetcode%20657.%20Robot%20Return%20to%20Origin.go)
 2. [`2833. Furthest Point From Origin`](./Golang/Leetcode%202833.%20Furthest%20Point%20From%20Origin.go) : You can use if else condition if didn't know hashmaps
-3. [`1704. Determine if String Halves Are Alike`](./Golang/Leetcode%201704.%20Determine%20if%20String%20Halves%20Are%20Alike.go)
-4. [`744. Find Smallest Letter Greater Than Target`](./Golang/Leetcode%20744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.go)
-5. [`1816. Truncate Sentence`](./Golang/Leetcode%201816.%20Truncate%20Sentence.go)
-6. [`1528. Shuffle String`](./Golang/Leetcode%201528.%20Shuffle%20String.go)
-7. [`191. Number of 1 Bits`](./Golang/Leetcode%20191.%20Number%20of%201%20Bits.go)
-8. [`1773. Count Items Matching a Rule`](./Golang/Leetcode%201773.%20Count%20Items%20Matching%20a%20Rule.go)
-9. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
-10. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
-11. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
-12. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
-13. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
-14. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
-15. [`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`](./Golang/Leetcode%201689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.go)
-16. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-17. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-18. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+3. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
+4. [`387. First Unique Character in a String`](./Golang/Leetcode%20387.%20First%20Unique%20Character%20in%20a%20String.go)
+5. [`1704. Determine if String Halves Are Alike`](./Golang/Leetcode%201704.%20Determine%20if%20String%20Halves%20Are%20Alike.go)
+6. [`744. Find Smallest Letter Greater Than Target`](./Golang/Leetcode%20744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.go)
+7. [`1816. Truncate Sentence`](./Golang/Leetcode%201816.%20Truncate%20Sentence.go)
+8. [`1528. Shuffle String`](./Golang/Leetcode%201528.%20Shuffle%20String.go)
+9. [`191. Number of 1 Bits`](./Golang/Leetcode%20191.%20Number%20of%201%20Bits.go)
+10. [`1773. Count Items Matching a Rule`](./Golang/Leetcode%201773.%20Count%20Items%20Matching%20a%20Rule.go)
+11. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
+12. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
+13. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
+14. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
+15. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
+16. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
+17. [`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`](./Golang/Leetcode%201689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.go)
+18. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+19. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+20. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
 </details>
 
 <details>
