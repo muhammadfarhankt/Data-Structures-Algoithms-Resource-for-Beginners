@@ -182,6 +182,14 @@
 </details>
 
 <details>
+<summary> <strong> SQL </strong> </summary>	
+	
+1. [`1378. Replace Employee ID With The Unique Identifier`](./SQL/Leetcode%201378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
+2. 
+</details>
+
+
+<details>
 	<summary> <strong> Sorting </strong> </summary>	
 	
 1. [`1089. Duplicate Zeros`](./Golang/Leetcode%201089.%20Duplicate%20Zeros.go):  Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
