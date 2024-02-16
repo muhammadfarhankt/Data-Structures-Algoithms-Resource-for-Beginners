@@ -189,8 +189,12 @@
 <details>
 <summary> <strong> SQL </strong> </summary>	
 	
-1. [`1378. Replace Employee ID With The Unique Identifier`](./SQL/Leetcode%201378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
-2. 
+1. [`1757. Recyclable and Low Fat Products`](./SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)
+2. [`584. Find Customer Referee`](./SQL/584.%20Find%20Customer%20Referee.go)
+3. [`595. Big Countries`](./SQL/595.%20Big%20Countries.sql)
+4. [`1148. Article Views I`](./SQL/1148.%20Article%20Views%20I.sql)
+5. [`1378. Replace Employee ID With The Unique Identifier`](./SQL/Leetcode%201378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
+6. [`1683. Invalid Tweets`](./SQL/1683.%20Invalid%20Tweets.sql)
 </details>
 
 
