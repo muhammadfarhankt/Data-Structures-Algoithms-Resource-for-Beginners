@@ -197,6 +197,8 @@
 4. [`1148. Article Views I`](./SQL/1148.%20Article%20Views%20I.sql)
 5. [`1683. Invalid Tweets`](./SQL/1683.%20Invalid%20Tweets.sql)
 6. [`1378. Replace Employee ID With The Unique Identifier`](./SQL/Leetcode%201378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
+7. [`1068. Product Sales Analysis I`](./SQL/1068.%20Product%20Sales%20Analysis%20I.sql)
+8. [`2356. Number of Unique Subjects Taught by Each Teacher`](./SQL/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
 </details>
 
 
