@@ -1,4 +1,11 @@
-# Leetcode-Solutions
+# 🚀 LeetCode Grind Resource for Beginners! 🌟
+
+### Hey folks! 👋 If you're diving into the world of LeetCode and looking for a structured path to improve your skills, I've curated a list of questions in the order of increasing complexity. 📈
+
+### This resource is specifically designed for beginners, making your LeetCode journey a bit smoother. 💡 Feel free to check out the list and let me know if you have any questions or suggestions! 🚀
+
+### REMEMBER Nothing worth having comes easy! CONSISTENCY is the Key. Do atlest one question every day							
+							
 
 <details>
 	<summary> <strong> Math </strong> </summary>	
@@ -68,57 +75,6 @@
 63.   [`1481. Least Number of Unique Integers after K Removals`](./Golang/Leetcode%201481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.go) : Medium O(N) Solution
 64.   [`1291. Sequential Digits`](./Golang/Leetcode%201291.%20Sequential%20Digits.go) : Medium
 
-</details>
-
-<details>
-	<summary> <strong> Linked List </strong> </summary>	
-	
-1. [`1290. Convert Binary Number in a Linked List to Integer`](./Golang/Leetcode%201290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.go):  Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number. Return the decimal value of the number in the linked list.
-2. [`876. Middle of the Linked List`](./Golang/Leetcode%20876%20Middle%20of%20the%20Linked%20List.go): Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
-3. [`160. Intersection of Two Linked Lists`](./Golang/Leetcode%20160%20Intersection%20of%20Two%20Linked%20Lists.go): Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
-4. [`141. Linked List Cycle`](./Golang/Leetcode%20141%20Linked%20List%20Cycle.go): Given head, the head of a linked list, determine if the linked list has a cycle in it.
-5. [`19. Remove Nth Node From End of List`](./Golang/Leetcode%2019%20Remove%20Nth%20Node%20From%20End%20of%20List.go): Given the head of a linked list, remove the nth node from the end of the list and return its head.
-6. [`2095. Delete the Middle Node of a Linked List`](./Golang/blob/main/Golang/Leetcode%202095%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.go): You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
-7.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
-8. [`707. Design Linked List`](./Golang/Leetcode%20707%20Design%20Linked%20List.go): (Medium) Design your implementation of the linked list.
-</details>
-
-<details>
-	<summary> <strong> Hash Maps / Hash Table / Set /Dictionary </strong> </summary>	
-	
-1. [`1. Two Sum`](./Golang/Leetcode%201%20Two%20Sum.go)
-2. [`217. Contains Duplicate`](./Golang/Leetcode%20217%20Contains%20Duplicate.go): Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
-3. [`2833. Furthest Point From Origin`](./Golang/Leetcode%202833.%20Furthest%20Point%20From%20Origin.go)
-4. [`1748. Sum of Unique Elements`](./Golang/Leetcode%201748%20Sum%20of%20Unique%20Elements.go)
-5. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go)
-6. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
-7. [`387. First Unique Character in a String`](./Golang/Leetcode%20387.%20First%20Unique%20Character%20in%20a%20String.go)
-8. [`2215. Find the Difference of Two Arrays`](./Golang/Leetcode%202215.%20Find%20the%20Difference%20of%20Two%20Arrays.go)
-9. [`1941. Check if All Characters Have Equal Number of Occurrences`](./Golang/Leetcode%201941%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.go)
-10. [`287. Find the Duplicate Number`](./Golang/Leetcode%20287%20Find%20the%20Duplicate%20Number.go)
-11. [`2154. Keep Multiplying Found Values by Two`](./Golang/Leetcode%202154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.go)
-12. [`575. Distribute Candies`](./Golang/Leetcode%20575%20Distribute%20Candies.go)
-13. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
-14. [`169. Majority Element`](./Golang/Leetcode%20169%20Majority%20Element.go)
-15. [`383. Ransom Note`](./Golang/Leetcode%20383.%20Ransom%20Note.go)
-16. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
-17. [`205. Isomorphic Strings`](./Golang/Leetcode%20205%20Isomorphic%20Strings.go)
-18. [`242. Valid Anagram`](./Golang/Leetcode%20242%20Valid%20Anagram.go)
-19. [`1832. Check if the Sentence Is Pangram`](./Golang/Leetcode%201832%20Check%20if%20the%20Sentence%20Is%20Pangram.go)
-20. [`771. Jewels and Stones`](./Golang/Leetcode%20771%20Jewels%20and%20Stones.go)
-21. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
-22. [`2965. Find Missing and Repeated Values`](./Golang/Leetcode%202965.%20Find%20Missing%20and%20Repeated%20Values.go)
-23. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go)
-24. [`2357. Make Array Zero by Subtracting Equal Amounts`](./Golang/Leetcode%202357%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.go)
-25. [`1370. Increasing Decreasing String`](./Golang/Leetcode%201370%20Increasing%20Decreasing%20String.go)
-26. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
-27. [`219. Contains Duplicate II`](./Golang/Leetcode%20219.%20Contains%20Duplicate%20II.go)
-28. [`2404. Most Frequent Even Element`](./Golang/Leetcode%202404.%20Most%20Frequent%20Even%20Element.go)
-29. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-30. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-31. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
-32. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
-33. [`49. Group Anagrams`](./Golang/Leetcode%2049.%20Group%20Anagrams.go) : Medium
 </details>
 
 <details>
@@ -196,6 +152,58 @@
 22. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
 23. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
 </details>
+
+<details>
+	<summary> <strong> Hash Maps / Hash Table / Set /Dictionary </strong> </summary>	
+	
+1. [`1. Two Sum`](./Golang/Leetcode%201%20Two%20Sum.go)
+2. [`217. Contains Duplicate`](./Golang/Leetcode%20217%20Contains%20Duplicate.go): Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+3. [`2833. Furthest Point From Origin`](./Golang/Leetcode%202833.%20Furthest%20Point%20From%20Origin.go)
+4. [`1748. Sum of Unique Elements`](./Golang/Leetcode%201748%20Sum%20of%20Unique%20Elements.go)
+5. [`1207. Unique Number of Occurrences`](./Golang/Leetcode%201207.%20Unique%20Number%20of%20Occurrences.go)
+6. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
+7. [`387. First Unique Character in a String`](./Golang/Leetcode%20387.%20First%20Unique%20Character%20in%20a%20String.go)
+8. [`2215. Find the Difference of Two Arrays`](./Golang/Leetcode%202215.%20Find%20the%20Difference%20of%20Two%20Arrays.go)
+9. [`1941. Check if All Characters Have Equal Number of Occurrences`](./Golang/Leetcode%201941%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.go)
+10. [`287. Find the Duplicate Number`](./Golang/Leetcode%20287%20Find%20the%20Duplicate%20Number.go)
+11. [`2154. Keep Multiplying Found Values by Two`](./Golang/Leetcode%202154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.go)
+12. [`575. Distribute Candies`](./Golang/Leetcode%20575%20Distribute%20Candies.go)
+13. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
+14. [`169. Majority Element`](./Golang/Leetcode%20169%20Majority%20Element.go)
+15. [`383. Ransom Note`](./Golang/Leetcode%20383.%20Ransom%20Note.go)
+16. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
+17. [`205. Isomorphic Strings`](./Golang/Leetcode%20205%20Isomorphic%20Strings.go)
+18. [`242. Valid Anagram`](./Golang/Leetcode%20242%20Valid%20Anagram.go)
+19. [`1832. Check if the Sentence Is Pangram`](./Golang/Leetcode%201832%20Check%20if%20the%20Sentence%20Is%20Pangram.go)
+20. [`771. Jewels and Stones`](./Golang/Leetcode%20771%20Jewels%20and%20Stones.go)
+21. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
+22. [`2965. Find Missing and Repeated Values`](./Golang/Leetcode%202965.%20Find%20Missing%20and%20Repeated%20Values.go)
+23. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go)
+24. [`2357. Make Array Zero by Subtracting Equal Amounts`](./Golang/Leetcode%202357%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.go)
+25. [`1370. Increasing Decreasing String`](./Golang/Leetcode%201370%20Increasing%20Decreasing%20String.go)
+26. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
+27. [`219. Contains Duplicate II`](./Golang/Leetcode%20219.%20Contains%20Duplicate%20II.go)
+28. [`2404. Most Frequent Even Element`](./Golang/Leetcode%202404.%20Most%20Frequent%20Even%20Element.go)
+29. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+30. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+31. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+32. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+33. [`49. Group Anagrams`](./Golang/Leetcode%2049.%20Group%20Anagrams.go) : Medium
+</details>
+
+<details>
+	<summary> <strong> Linked List </strong> </summary>	
+	
+1. [`1290. Convert Binary Number in a Linked List to Integer`](./Golang/Leetcode%201290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.go):  Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number. Return the decimal value of the number in the linked list.
+2. [`876. Middle of the Linked List`](./Golang/Leetcode%20876%20Middle%20of%20the%20Linked%20List.go): Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
+3. [`160. Intersection of Two Linked Lists`](./Golang/Leetcode%20160%20Intersection%20of%20Two%20Linked%20Lists.go): Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+4. [`141. Linked List Cycle`](./Golang/Leetcode%20141%20Linked%20List%20Cycle.go): Given head, the head of a linked list, determine if the linked list has a cycle in it.
+5. [`19. Remove Nth Node From End of List`](./Golang/Leetcode%2019%20Remove%20Nth%20Node%20From%20End%20of%20List.go): Given the head of a linked list, remove the nth node from the end of the list and return its head.
+6. [`2095. Delete the Middle Node of a Linked List`](./Golang/blob/main/Golang/Leetcode%202095%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.go): You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
+7.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
+8. [`707. Design Linked List`](./Golang/Leetcode%20707%20Design%20Linked%20List.go): (Medium) Design your implementation of the linked list.
+</details>
+
 
 <details>
 <summary> <strong> SQL </strong> </summary>	
