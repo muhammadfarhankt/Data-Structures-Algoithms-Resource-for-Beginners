@@ -157,6 +157,8 @@
 21. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
 22. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
 23. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+24. [`567. Permutation in String`](./Golang/Leetcode%20567.%20Permutation%20in%20String.go) : Sliding Window Approach
+25. [`438. Find All Anagrams in a String`](./Golang/Leetcode%20438.%20Find%20All%20Anagrams%20in%20a%20String.go) : Sliding Window
 </details>
 
 <details>
