@@ -206,12 +206,13 @@
 	
 1. [`1290. Convert Binary Number in a Linked List to Integer`](./Golang/Leetcode%201290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.go):  Given head which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number. Return the decimal value of the number in the linked list.
 2. [`876. Middle of the Linked List`](./Golang/Leetcode%20876%20Middle%20of%20the%20Linked%20List.go): Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
-3. [`160. Intersection of Two Linked Lists`](./Golang/Leetcode%20160%20Intersection%20of%20Two%20Linked%20Lists.go): Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
-4. [`141. Linked List Cycle`](./Golang/Leetcode%20141%20Linked%20List%20Cycle.go): Given head, the head of a linked list, determine if the linked list has a cycle in it.
-5. [`19. Remove Nth Node From End of List`](./Golang/Leetcode%2019%20Remove%20Nth%20Node%20From%20End%20of%20List.go): Given the head of a linked list, remove the nth node from the end of the list and return its head.
-6. [`2095. Delete the Middle Node of a Linked List`](./Golang/blob/main/Golang/Leetcode%202095%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.go): You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
-7.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
-8. [`707. Design Linked List`](./Golang/Leetcode%20707%20Design%20Linked%20List.go): (Medium) Design your implementation of the linked list.
+3. [`206. Reverse Linked List`](./Golang/Leetcode%20206.%20Reverse%20Linked%20List.go)
+4. [`160. Intersection of Two Linked Lists`](./Golang/Leetcode%20160%20Intersection%20of%20Two%20Linked%20Lists.go): Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+5. [`141. Linked List Cycle`](./Golang/Leetcode%20141%20Linked%20List%20Cycle.go): Given head, the head of a linked list, determine if the linked list has a cycle in it.
+6. [`19. Remove Nth Node From End of List`](./Golang/Leetcode%2019%20Remove%20Nth%20Node%20From%20End%20of%20List.go): Given the head of a linked list, remove the nth node from the end of the list and return its head.
+7. [`2095. Delete the Middle Node of a Linked List`](./Golang/blob/main/Golang/Leetcode%202095%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.go): You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
+8.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
+9. [`707. Design Linked List`](./Golang/Leetcode%20707%20Design%20Linked%20List.go): (Medium) Design your implementation of the linked list.
 </details>
 
 
