@@ -135,31 +135,32 @@
 <details>
 	<summary> <strong> Strings </strong> </summary>	
 	
-1. [`657. Robot Return to Origin`](./Golang/Leetcode%20657.%20Robot%20Return%20to%20Origin.go)
-2. [`2833. Furthest Point From Origin`](./Golang/Leetcode%202833.%20Furthest%20Point%20From%20Origin.go) : You can use if else condition if didn't know hashmaps
-3. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
-4. [`387. First Unique Character in a String`](./Golang/Leetcode%20387.%20First%20Unique%20Character%20in%20a%20String.go)
-5. [`383. Ransom Note`](./Golang/Leetcode%20383.%20Ransom%20Note.go)
-6. [`1704. Determine if String Halves Are Alike`](./Golang/Leetcode%201704.%20Determine%20if%20String%20Halves%20Are%20Alike.go)
-7. [`2108. Find First Palindromic String in the Array`](./Golang/Leetcode%202108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.go)
-8. [`744. Find Smallest Letter Greater Than Target`](./Golang/Leetcode%20744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.go)
-9. [`1816. Truncate Sentence`](./Golang/Leetcode%201816.%20Truncate%20Sentence.go)
-10. [`1528. Shuffle String`](./Golang/Leetcode%201528.%20Shuffle%20String.go)
-11. [`191. Number of 1 Bits`](./Golang/Leetcode%20191.%20Number%20of%201%20Bits.go)
-12. [`1773. Count Items Matching a Rule`](./Golang/Leetcode%201773.%20Count%20Items%20Matching%20a%20Rule.go)
-13. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
-14. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
-15. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
-16. [`2273. Find Resultant Array After Removing Anagrams`](./Golang/Leetcode%202273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.go)
-17. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
-18. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
-19. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
-20. [`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`](./Golang/Leetcode%201689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.go)
-21. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-22. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-23. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
-24. [`567. Permutation in String`](./Golang/Leetcode%20567.%20Permutation%20in%20String.go) : Sliding Window Approach
-25. [`438. Find All Anagrams in a String`](./Golang/Leetcode%20438.%20Find%20All%20Anagrams%20in%20a%20String.go) : Sliding Window
+1. [`1108. Defanging an IP Address`](./Golang/Leetcode%201108%20Defanging%20an%20IP%20Address%20Golang%20Solution.go)
+2. [`657. Robot Return to Origin`](./Golang/Leetcode%20657.%20Robot%20Return%20to%20Origin.go)
+3. [`2833. Furthest Point From Origin`](./Golang/Leetcode%202833.%20Furthest%20Point%20From%20Origin.go) : You can use if else condition if didn't know hashmaps
+4. [`2351. First Letter to Appear Twice`](./Golang/Leetcode%202351%20First%20Letter%20to%20Appear%20Twice.go)
+5. [`387. First Unique Character in a String`](./Golang/Leetcode%20387.%20First%20Unique%20Character%20in%20a%20String.go)
+6. [`383. Ransom Note`](./Golang/Leetcode%20383.%20Ransom%20Note.go)
+7. [`1704. Determine if String Halves Are Alike`](./Golang/Leetcode%201704.%20Determine%20if%20String%20Halves%20Are%20Alike.go)
+8. [`2108. Find First Palindromic String in the Array`](./Golang/Leetcode%202108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.go)
+9. [`744. Find Smallest Letter Greater Than Target`](./Golang/Leetcode%20744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.go)
+10. [`1816. Truncate Sentence`](./Golang/Leetcode%201816.%20Truncate%20Sentence.go)
+11. [`1528. Shuffle String`](./Golang/Leetcode%201528.%20Shuffle%20String.go)
+12. [`191. Number of 1 Bits`](./Golang/Leetcode%20191.%20Number%20of%201%20Bits.go)
+13. [`1773. Count Items Matching a Rule`](./Golang/Leetcode%201773.%20Count%20Items%20Matching%20a%20Rule.go)
+14. [`2114. Maximum Number of Words Found in Sentences`](./Golang/Leetcode%202114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.go)
+15. [`1662. Check If Two String Arrays are Equivalent`](./Golang/Leetcode%201662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.go)
+16. [`1678. Goal Parser Interpretation`](./Golang/Leetcode%201678%20Goal%20Parser%20Interpretation.go)
+17. [`2273. Find Resultant Array After Removing Anagrams`](./Golang/Leetcode%202273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.go)
+18. [`2828. Check if a String Is an Acronym of Words`](./Golang/Leetcode%202828%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.go)
+19. [`2942. Find Words Containing Character`](./Golang/Leetcode%202942%20Find%20Words%20Containing%20Character.go)
+20. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
+21. [`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`](./Golang/Leetcode%201689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.go)
+22. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+23. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+24. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+25. [`567. Permutation in String`](./Golang/Leetcode%20567.%20Permutation%20in%20String.go) : Sliding Window Approach
+26. [`438. Find All Anagrams in a String`](./Golang/Leetcode%20438.%20Find%20All%20Anagrams%20in%20a%20String.go) : Sliding Window
 </details>
 
 <details>
