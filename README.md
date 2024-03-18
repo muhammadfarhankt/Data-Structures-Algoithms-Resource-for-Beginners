@@ -1,4 +1,4 @@
-# 🚀 LeetCode Grind Resource for Beginners! 🌟
+# LeetCode Grind Resource for Beginners!
 
 ### Hey folks! 👋 If you're diving into the world of LeetCode and looking for a structured path to improve your skills, I've curated a list of questions in the order of increasing complexity. 📈
 
