@@ -183,27 +183,28 @@
 14. [`3005. Count Elements With Maximum Frequency`](./Golang/Leetcode%203005.%20Count%20Elements%20With%20Maximum%20Frequency.go)
 15. [`1512. Number of Good Pairs`](./Golang/Leetcode%201512%20Number%20of%20Good%20Pairs.go)
 16. [`169. Majority Element`](./Golang/Leetcode%20169%20Majority%20Element.go)
-17. [`383. Ransom Note`](./Golang/Leetcode%20383.%20Ransom%20Note.go)
-18. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
-19. [`205. Isomorphic Strings`](./Golang/Leetcode%20205%20Isomorphic%20Strings.go)
-20. [`242. Valid Anagram`](./Golang/Leetcode%20242%20Valid%20Anagram.go)
-21. [`1832. Check if the Sentence Is Pangram`](./Golang/Leetcode%201832%20Check%20if%20the%20Sentence%20Is%20Pangram.go)
-22. [`771. Jewels and Stones`](./Golang/Leetcode%20771%20Jewels%20and%20Stones.go)
-23. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
-24. [`2965. Find Missing and Repeated Values`](./Golang/Leetcode%202965.%20Find%20Missing%20and%20Repeated%20Values.go)
-25. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go)
-26. [`349. Intersection of Two Arrays`](./Golang/Leetcode%20349.%20Intersection%20of%20Two%20Arrays.go)
-27. [`350. Intersection of Two Arrays II`](./Golang/Leetcode%20350.%20Intersection%20of%20Two%20Arrays%20II.go)
-28. [`2357. Make Array Zero by Subtracting Equal Amounts`](./Golang/Leetcode%202357%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.go)
-29. [`1370. Increasing Decreasing String`](./Golang/Leetcode%201370%20Increasing%20Decreasing%20String.go)
-30. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
-31. [`219. Contains Duplicate II`](./Golang/Leetcode%20219.%20Contains%20Duplicate%20II.go)
-32. [`2404. Most Frequent Even Element`](./Golang/Leetcode%202404.%20Most%20Frequent%20Even%20Element.go)
-33. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-34. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-35. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
-36. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
-37. [`49. Group Anagrams`](./Golang/Leetcode%2049.%20Group%20Anagrams.go) : Medium
+17. [`2190. Most Frequent Number Following Key In an Array`](./Golang/Leetcode%202190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.go)
+18. [`383. Ransom Note`](./Golang/Leetcode%20383.%20Ransom%20Note.go)
+19. [`1624. Largest Substring Between Two Equal Characters`](./Golang/Leetcode%201624%20Largest%20Substring%20Between%20Two%20Equal%20Characters.go)
+20. [`205. Isomorphic Strings`](./Golang/Leetcode%20205%20Isomorphic%20Strings.go)
+21. [`242. Valid Anagram`](./Golang/Leetcode%20242%20Valid%20Anagram.go)
+22. [`1832. Check if the Sentence Is Pangram`](./Golang/Leetcode%201832%20Check%20if%20the%20Sentence%20Is%20Pangram.go)
+23. [`771. Jewels and Stones`](./Golang/Leetcode%20771%20Jewels%20and%20Stones.go)
+24. [`202. Happy Number`](./Golang/Leetcode%20202%20Happy%20Number.go)
+25. [`2965. Find Missing and Repeated Values`](./Golang/Leetcode%202965.%20Find%20Missing%20and%20Repeated%20Values.go)
+26. [`1282. Group the People Given the Group Size They Belong To`](./Golang/Leetcode%201282%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.go)
+27. [`349. Intersection of Two Arrays`](./Golang/Leetcode%20349.%20Intersection%20of%20Two%20Arrays.go)
+28. [`350. Intersection of Two Arrays II`](./Golang/Leetcode%20350.%20Intersection%20of%20Two%20Arrays%20II.go)
+29. [`2357. Make Array Zero by Subtracting Equal Amounts`](./Golang/Leetcode%202357%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.go)
+30. [`1370. Increasing Decreasing String`](./Golang/Leetcode%201370%20Increasing%20Decreasing%20String.go)
+31. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
+32. [`219. Contains Duplicate II`](./Golang/Leetcode%20219.%20Contains%20Duplicate%20II.go)
+33. [`2404. Most Frequent Even Element`](./Golang/Leetcode%202404.%20Most%20Frequent%20Even%20Element.go)
+34. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+35. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+36. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+37. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+38. [`49. Group Anagrams`](./Golang/Leetcode%2049.%20Group%20Anagrams.go) : Medium
 </details>
 
 <details>
