@@ -68,15 +68,16 @@
 56.  [`66. Plus One`](./Golang/Leetcode%2066%20Plus%20One.go)
 57.  [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
 58.  [`2540. Minimum Common Value`](./Golang/Leetcode%202540.%20Minimum%20Common%20Value.go) : Two pointer approach
-59.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
-60.  [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
-61.  [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
-62.  [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
-63.   [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
-64.   [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
-65.   [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)
-66.   [`1481. Least Number of Unique Integers after K Removals`](./Golang/Leetcode%201481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.go) : Medium O(N) Solution
-67.   [`1291. Sequential Digits`](./Golang/Leetcode%201291.%20Sequential%20Digits.go) : Medium
+59.  [`442. Find All Duplicates in an Array`](./Golang/Leetcode%20442.%20Find%20All%20Duplicates%20in%20an%20Array.go) : Medium - Easy level
+60.  [`2807. Insert Greatest Common Divisors in Linked List`](./Golang/Leetcode%202807%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.go) : Medium Question but Medium - Easy level
+61.  [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
+62.  [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
+63.  [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
+64.   [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
+65.   [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+66.   [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)
+67.   [`1481. Least Number of Unique Integers after K Removals`](./Golang/Leetcode%201481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.go) : Medium O(N) Solution
+68.   [`1291. Sequential Digits`](./Golang/Leetcode%201291.%20Sequential%20Digits.go) : Medium
 
 </details>
 
@@ -125,13 +126,14 @@
 40. [`2433. Find The Original Array of Prefix Xor`](./Golang/Leetcode%202433%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.go)
 41. [`2824. Count Pairs Whose Sum is Less than Target`](./Golang/Leetcode%202824%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.go)
 42. [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
-43. [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
-44. [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
-45. [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
-46. [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
-47. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
-48. [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)
-49. [`1481. Least Number of Unique Integers after K Removals`](./Golang/Leetcode%201481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.go) : Medium O(N) Solution
+43. [`442. Find All Duplicates in an Array`](./Golang/Leetcode%20442.%20Find%20All%20Duplicates%20in%20an%20Array.go) : Medium - Easy level
+44. [`2125. Number of Laser Beams in a Bank`](./Golang/Leetcode%202125%20Number%20of%20Laser%20Beams%20in%20a%20Bank.go) : Medium - Easy level
+45. [`2870. Minimum Number of Operations to Make Array Empty`](./Golang/Leetcode%202870%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.go) : Medium - Easy level
+46. [`2396. Strictly Palindromic Number.go`](./Golang/Leetcode%202396.%20Strictly%20Palindromic%20Number.go)
+47. [`2610. Convert an Array Into a 2D Array With Conditions`](./Golang/Leetcode%202610%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.go) : Medium
+48. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+49. [`46. Permutations`](./Golang/Leetcode%2046.%20Permutations.go) : Medium (Recursion)
+50. [`1481. Least Number of Unique Integers after K Removals`](./Golang/Leetcode%201481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.go) : Medium O(N) Solution
 </details>
 
 <details>
@@ -201,11 +203,12 @@
 31. [`2367. Number of Arithmetic Triplets`](./Golang/Leetcode%202367%20Number%20of%20Arithmetic%20Triplets.go)
 32. [`219. Contains Duplicate II`](./Golang/Leetcode%20219.%20Contains%20Duplicate%20II.go)
 33. [`2404. Most Frequent Even Element`](./Golang/Leetcode%202404.%20Most%20Frequent%20Even%20Element.go)
-34. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
-35. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
-36. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
-37. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
-38. [`49. Group Anagrams`](./Golang/Leetcode%2049.%20Group%20Anagrams.go) : Medium
+34. [`442. Find All Duplicates in an Array`](./Golang/Leetcode%20442.%20Find%20All%20Duplicates%20in%20an%20Array.go) : Medium - Easy level
+35. [`1347. Minimum Number of Steps to Make Two Strings Anagram`](./Golang/Leetcode%201347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.go): Medium - Easy
+36. [`2186. Minimum Number of Steps to Make Two Strings Anagram II`](./Golang/Leetcode%202186.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.go): Medium
+37. [`1657. Determine if Two Strings Are Close`](./Golang/Leetcode%201657.%20Determine%20if%20Two%20Strings%20Are%20Close.go): Medium
+38. [`380. Insert Delete GetRandom O(1)`](./Golang/Leetcode%20380.%20Insert%20Delete%20GetRandom%20O(1).go) : Medium
+39. [`49. Group Anagrams`](./Golang/Leetcode%2049.%20Group%20Anagrams.go) : Medium
 </details>
 
 <details>
