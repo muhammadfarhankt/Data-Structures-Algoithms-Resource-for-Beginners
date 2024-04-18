@@ -19,8 +19,6 @@ func maximumPrimeDifference(nums []int) int {
 func checkPrime(num int) bool {
     if num == 1 {
         return false
-    }else if num == 2 || num == 3 {
-        return true
     }
     for i := 2; i <= int(math.Sqrt(float64(num))); i++ {
         if num % i == 0 {
