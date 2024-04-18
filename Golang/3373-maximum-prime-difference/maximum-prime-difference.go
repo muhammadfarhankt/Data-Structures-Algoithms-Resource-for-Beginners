@@ -1,30 +1,33 @@
-func isPrime(n int) bool {
-	if n <= 1 {
-		return false
-	}
-	for i := 2; i <= int(math.Sqrt(float64(n))); i++ {
-		if n%i == 0 {
-			return false
-		}
-	}
-	return true
-}
-
 func maximumPrimeDifference(nums []int) int {
-	left := 0
-	right := len(nums) - 1
-	for left < right {
-		var isLeftPrime = isPrime(nums[left])
-		var isRightPrime = isPrime(nums[right])
-		if isLeftPrime && isRightPrime {
-			return right - left
-		}
-		if !isLeftPrime {
-			left++
-		}
-		if !isRightPrime {
-			right--
-		}
-	}
-	return 0
+    left, right := -1, -1
+    for i := 0; i < len(nums); i++ {
+        if checkPrime(nums[i]) {
+            //fmt.Println(nums[i])
+            left = i
+            break
+        }
+    }
+    for i := len(nums)-1; i >= 0; i-- {
+        if checkPrime(nums[i]) {
+            //fmt.Println(nums[i])
+            right = i
+            break
+        }
+    }
+    return right - left
+}
+func checkPrime(num int) bool {
+    if num == 1 {
+        return false
+    }else if num == 2 || num == 3 {
+        return true
+    }
+    prime := true
+    for i := 2; i <= int(math.Sqrt(float64(num))); i++ {
+        if num % i == 0 {
+            prime = false
+            break
+        }
+    }
+    return prime
 }
