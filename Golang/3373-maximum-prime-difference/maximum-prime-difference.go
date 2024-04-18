@@ -1,19 +1,11 @@
 func maximumPrimeDifference(nums []int) int {
-    left, right := 0, len(nums)-1
-    for left < right {
-        leftPrime := checkPrime(nums[left])
-        rightPrime := checkPrime(nums[right])
-        if leftPrime && rightPrime {
-            return right - left
-        }
-        if !leftPrime {
-            left++
-        }
-        if !rightPrime {
-            right--
+    primesArr := []int{}
+    for i, n := range nums {
+        if checkPrime(n) {
+            primesArr = append(primesArr, i)
         }
     }
-    return 0
+    return primesArr[len(primesArr)-1] - primesArr[0]
 }
 func checkPrime(num int) bool {
     if num == 1 {
