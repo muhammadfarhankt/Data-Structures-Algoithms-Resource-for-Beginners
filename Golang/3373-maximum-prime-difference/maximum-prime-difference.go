@@ -6,10 +6,10 @@ func maximumPrimeDifference(nums []int) int {
         if leftPrime && rightPrime {
             return right - left
         }
-        if leftPrime == false {
+        if !leftPrime {
             left++
         }
-        if rightPrime == false {
+        if !rightPrime {
             right--
         }
     }
