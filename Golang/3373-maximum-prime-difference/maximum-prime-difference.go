@@ -22,12 +22,10 @@ func checkPrime(num int) bool {
     }else if num == 2 || num == 3 {
         return true
     }
-    prime := true
     for i := 2; i <= int(math.Sqrt(float64(num))); i++ {
         if num % i == 0 {
-            prime = false
-            break
+            return false
         }
     }
-    return prime
+    return true
 }
