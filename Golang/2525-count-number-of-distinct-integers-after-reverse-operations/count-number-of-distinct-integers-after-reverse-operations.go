@@ -1,10 +1,8 @@
 func countDistinctIntegers(nums []int) int {
     numsMap := make(map[int]bool, len(nums)*2)
-    for _, num := range nums {
-        numsMap[num] = true
-        rev := reverse(num)
-        numsMap[rev] = true
-        nums = append(nums, rev)
+    for i := 0; i < len(nums); i++ {
+        numsMap[nums[i]] = true
+        numsMap[reverse(nums[i])] = true
     }
     return len(numsMap)
 }
