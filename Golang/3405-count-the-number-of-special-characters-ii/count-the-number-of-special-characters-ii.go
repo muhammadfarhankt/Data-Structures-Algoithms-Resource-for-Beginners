@@ -1,21 +1,19 @@
 func numberOfSpecialChars(word string) int {
-    small, capital := make(map[rune]int, 26), make(map[rune]int, 26)
+    small, capital := [26]int{}, [26]int{}
     count := 0
     for i, char := range word {
         if char >= 'a' && char <= 'z' {
-            small[char] = i
+            small[int(char - 'a')] = i+1
         } else if char >= 'A' && char <= 'Z' {
-            if _, exists := capital[char]; !exists {
-                capital[char] = i
+            if capital[int(char - 'A')] == 0 {
+                capital[int(char - 'A')] = i+1
             }
         }
     }
-    for key, value := range small {
-        if value < capital[key-32] {
+    for i := 0; i < 26; i++ {
+        if small[i] != 0 && capital[i] > small[i] {
             count++
         }
     }
-    fmt.Println(small)
-    fmt.Println(capital)
     return count
 }
