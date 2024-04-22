@@ -4,7 +4,7 @@ func numberOfSpecialChars(word string) int {
     for i, char := range word {
         if char >= 'a' && char <= 'z' {
             small[int(char - 'a')] = i+1
-        } else if char >= 'A' && char <= 'Z' {
+        } else {
             if capital[int(char - 'A')] == 0 {
                 capital[int(char - 'A')] = i+1
             }
