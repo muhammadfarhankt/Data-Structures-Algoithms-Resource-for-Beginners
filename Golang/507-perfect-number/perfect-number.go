@@ -9,8 +9,5 @@ func checkPerfectNumber(num int) bool {
         }
     }
     //fmt.Println(sum)
-    if sum-num == num {
-        return true
-    }
-    return false
+    return sum-num == num
 }
