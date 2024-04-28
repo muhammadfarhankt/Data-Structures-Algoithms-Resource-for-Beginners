@@ -8,7 +8,7 @@ func checkPerfectNumber(num int) bool {
             sum += i + (num / i)
         }
     }
-    fmt.Println(sum)
+    //fmt.Println(sum)
     if sum-num == num {
         return true
     }
