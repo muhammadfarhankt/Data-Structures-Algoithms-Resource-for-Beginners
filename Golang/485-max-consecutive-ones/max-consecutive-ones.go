@@ -1,14 +1,17 @@
 func findMaxConsecutiveOnes(nums []int) int {
     count, maxCount := 0, 0
-    for _, num := range nums {
-        if num == 1 {
+    for i := 0; i < len(nums); i++ {
+        if nums[i] == 1 {
             count++
+        } else {
             if count > maxCount {
                 maxCount = count
             }
-        } else {
             count = 0
         }
+    }
+    if count > maxCount {
+        maxCount = count
     }
     return maxCount
 }
