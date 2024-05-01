@@ -4,11 +4,14 @@ func findMaxConsecutiveOnes(nums []int) int {
         if num == 1 {
             count++
         } else {
+            if count > maxCount {
+                maxCount = count
+            }
             count = 0
         }
-        if count > maxCount {
-            maxCount = count
-        }
+    }
+    if count > maxCount {
+        maxCount = count
     }
     return maxCount
 }
