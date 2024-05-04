@@ -1,15 +1,15 @@
 func mostWordsFound(sentences []string) int {
-    max := 0
-    for _, sentence := range sentences {
-        space := 0
-        for _, char := range sentence {
-            if char == ' ' {
-                space++
+    maxCount := 0
+    for i := 0; i < len(sentences); i++ {
+        count := 1
+        for j := 0; j < len(sentences[i]); j++ {
+            if sentences[i][j] == ' ' {
+                count += 1
             }
         }
-        if space+1 > max {
-            max = space+1
+        if count > maxCount {
+            maxCount = count
         }
     }
-    return max
+    return maxCount
 }
