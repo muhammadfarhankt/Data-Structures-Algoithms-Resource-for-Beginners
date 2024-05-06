@@ -18,7 +18,7 @@ func isValid(word string) bool {
         }
     }
     if vowel >= 1 && consonant >= 1 {
-            return true
+        return true
     }
     return false
 }
