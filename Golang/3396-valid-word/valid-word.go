@@ -3,21 +3,19 @@ func isValid(word string) bool {
         return false
     }
     vowelMap := map[rune]bool{'a': true, 'e': true, 'i': true, 'o': true, 'u': true, 'A': true, 'E': true, 'I': true, 'O': true, 'U': true}
-    vowel, consonant := 0, 0
+    vowel, consonant := false, false
     for _, char := range word {
         if vowelMap[char] {
-            vowel++
-        } else if char >= 'a' && char <= 'z' {
-            consonant++
+            vowel = true
+        } else if char >= 'a' && char <= 'z' || char >= 'A' && char <= 'Z' {
+            consonant = true
         } else if char >= '0' && char <= '9' {
             continue
-        } else if char >= 'A' && char <= 'Z' {
-            consonant++
         } else {
             return false
         }
     }
-    if vowel >= 1 && consonant >= 1 {
+    if vowel && consonant {
         return true
     }
     return false
