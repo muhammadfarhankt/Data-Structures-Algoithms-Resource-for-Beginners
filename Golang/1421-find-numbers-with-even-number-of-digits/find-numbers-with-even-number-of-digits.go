@@ -1,9 +1,20 @@
 func findNumbers(nums []int) int {
     evenDigits := 0
     for _, num := range nums {
-        if num > 9 && num < 100 || num > 999 && num < 10000 || num == 100000 {
+        if evenLength(num) {
             evenDigits++
         }
     }
     return evenDigits
+}
+func evenLength(num int) bool {
+    length := 0
+    for num > 0 {
+        num /= 10
+        length++
+    }
+    if length % 2 == 0 {
+        return true
+    }
+    return false
 }
