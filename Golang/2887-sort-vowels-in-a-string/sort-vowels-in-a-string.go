@@ -25,8 +25,8 @@ func sortVowels(s string) string {
             higherArr[i]--
         }
     }
-    fmt.Println(string(lower))
-    fmt.Println(string(higher))
+    // fmt.Println(string(lower))
+    // fmt.Println(string(higher))
     i, j := 0, 0
     for _, char := range s {
         if higherMap[char] || lowerMap[char] {
@@ -45,6 +45,6 @@ func sortVowels(s string) string {
     // fmt.Println(higherArr)
     // fmt.Println(lowerMap)
     // fmt.Println(higherMap)
-    fmt.Println((output))
+    // fmt.Println((output))
     return string(output)
 }
