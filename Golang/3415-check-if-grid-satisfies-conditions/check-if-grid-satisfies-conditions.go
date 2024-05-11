@@ -10,8 +10,6 @@ func satisfiesConditions(grid [][]int) bool {
             }
         }
     }
-
-    // Check last row separately (always)
     for j := 0; j < column-1; j++ {
         if grid[row-1][j] == grid[row-1][j+1] {
             return false
