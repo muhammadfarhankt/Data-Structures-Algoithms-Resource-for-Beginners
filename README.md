@@ -55,7 +55,7 @@
 43.  [`342. Power of Four`](./Golang/Leetcode%20342.%20Power%20of%20Four.go)
 44.  [`35. Search Insert Position`](./Golang/Leetcode%2035%20Search%20Insert%20Position.go) : Binary Search Implementation
 45.  [`455. Assign Cookies`](./Golang/Leetcode%20455%20Assign%20Cookies.go)
-46.  [`1385. Find the Distance Value Between Two Arrays](./Golang/Leetcode%201385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.go)
+46.  [`1385. Find the Distance Value Between Two Arrays`](./Golang/Leetcode%201385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.go)
 47.  [`121. Best Time to Buy and Sell Stock`](./Golang/Leetcode%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.go)
 48.  [`1588. Sum of All Odd Length Subarrays`](./Golang/Leetcode%201588%20Sum%20of%20All%20Odd%20Length%20Subarrays.go)
 49.  [`645. Set Mismatch`](./Golang/Leetcode%20645%20Set%20Mismatch.go)
