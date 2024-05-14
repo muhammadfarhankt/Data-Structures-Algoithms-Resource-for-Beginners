@@ -4,7 +4,7 @@ func divideArray(nums []int) bool {
         numsArr[num]++
     }
     for i := 1; i < 501; i++ {
-        if numsArr[i] % 2 != 0 {
+        if numsArr[i] % 2 == 1 {
             return false
         }
     }
