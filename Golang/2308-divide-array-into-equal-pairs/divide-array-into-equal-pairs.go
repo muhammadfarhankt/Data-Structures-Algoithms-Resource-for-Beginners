@@ -1,9 +1,9 @@
 func divideArray(nums []int) bool {
-    numsMap := make(map[int]int, 500)
+    numsArr := make([]int, 501, 501)
     for _, num := range nums {
-        numsMap[num]++
+        numsArr[num]++
     }
-    for _, val := range numsMap {
+    for _, val := range numsArr {
         if val %2 != 0 {
             return false
         }
