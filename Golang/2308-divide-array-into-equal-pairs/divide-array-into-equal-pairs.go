@@ -3,8 +3,8 @@ func divideArray(nums []int) bool {
     for _, num := range nums {
         numsArr[num]++
     }
-    for _, val := range numsArr {
-        if val %2 != 0 {
+    for i := 1; i < 501; i++ {
+        if numsArr[i] % 2 != 0 {
             return false
         }
     }
