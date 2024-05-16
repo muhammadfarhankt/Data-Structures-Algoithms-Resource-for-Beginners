@@ -420,6 +420,217 @@ Briefly introduce the concept of secure hashing algorithms like SHA, used for da
 	<summary>
 		<h2>Week 3</h2>
 	</summary>
+
+## Trees
+
+### Linear vs. Non-Linear vs. Hierarchical Data Structures
+- Review linear data structures (arrays, linked lists) for sequential access.
+- Introduce non-linear data structures (trees, graphs) for hierarchical relationships.
+- Understand hierarchical structures with parent-child relationships.
+
+### Tree Fundamentals
+- Grasp the concept of trees, a collection of nodes connected by edges.
+- Explore tree terminology: parent, child, root, leaf, sibling, ancestor, descendant, path, distance, degree, depth, height, edge, subtree.
+
+### Types of Trees (by Nodes)
+- Binary Tree: Each node has at most two children (left and right).
+- Ternary Tree: Each node has at most three children.
+- K-ary Tree: Each node has at most K children.
+- Threaded Binary Tree: A space-efficient binary tree variation with implicit pointers.
+
+### Types of Trees (by Structure)
+- Complete Tree: All levels except possibly the last are completely filled.
+- Full Tree: Every node except possibly leaves has two children.
+- Perfect Tree: Every internal node has two children and all leaves are at the same level.
+- Degenerate Tree: A tree where most nodes have only one child.
+  - Left-Skew Tree: More nodes lean left than right.
+  - Right-Skew Tree: More nodes lean right than left.
+
+### Binary Search Tree (BST)
+- BST vs. Binary Tree: Understand the additional properties of a BST.
+- Uses of BST: Efficient searching and sorting of data with a specific ordering.
+- Balanced vs. Unbalanced Tree: Explore the impact of balance on BST performance.
+- Properties of BST: Ordering property (left subtree < root < right subtree).
+- BST Operations:
+  - Insertion: Maintain BST property while adding new elements.
+  - Deletion: Remove an element while preserving BST order.
+- Traversal:
+  - Depth-First Search (DFS):
+    - InOrder: Visit left subtree, root, then right subtree (sorted order for BST).
+    - PreOrder: Visit root, then left subtree, then right subtree.
+    - PostOrder: Visit left subtree, then right subtree, then root.
+  - Breadth-First Search (BFS): Visit nodes level by level.
+
+### Balanced Search Trees
+- AVL Tree: A self-balancing BST with a height difference constraint (logarithmic search time).
+- Red-Black Tree: Another self-balancing BST with specific node color properties (logarithmic search time).
+
+### Prefix Tree (Trie)
+- String vs. Trie: Explore how tries efficiently store and retrieve strings with a prefix search functionality.
+- Trie Operations:
+  - Initialization: Create an empty trie.
+  - Insertion: Insert a new string into the trie.
+  - Deletion: Delete a string from the trie (if it exists).
+  - Search: Search for a specific string prefix in the trie.
+- Prefix and Suffix Trees: Specialized tries for efficient prefix and suffix searches.
+- Terminator character: A special character marking the end of a string in the trie.
+- Compressed Trie: Techniques for reducing memory usage in tries (e.g., Radix Trie).
+
+## Heaps
+
+### Min Heap vs. Max Heap
+- Understand heaps, tree-based structures where the root has the highest (max heap) or lowest (min heap) value compared to its children.
+- Heap Operations:
+  - Get Value of Children/Parent: Access child or parent node values based on their positions.
+  - Initialization/Heapify: Convert an array into a valid heap structure.
+  - Insertion: Add a new element to the heap while maintaining the heap property.
+  - Deletion: Remove the root element (min/max value) from the heap and re-organize.
+- Heapsort: Sorting algorithm utilizing a heap structure for efficient time complexity (average/near worst-case - n log n).
+
+## Graphs
+
+### Graph Fundamentals
+- Understand graphs, data structures consisting of vertices (nodes) connected by edges (links) representing relationships.
+- Explore graph terminology: vertex, edge, adjacency list, adjacency matrix.
+
+### Types of Graphs
+- Directed (Unidirectional): Edges have a direction (from one vertex to another).
+- Undirected (Bidirectional): Edges have no direction (connect two vertices).
+- Cyclic: A graph containing a closed loop (cycle) of vertices.
+- Disconnected: A graph where some vertices are not reachable from others.
+- Weighted Graph: Edges have associated weights (costs).
+- Unweighted Graph: Edges have no weights (all connections are considered equal).
+- Bipartite Graph: A graph where vertices can be divided into two sets such that no edges connect vertices within the same set.
+
+### Graph Traversals
+- Breadth-First Search (BFS): Explore vertices level by level, starting from a source vertex.
+- Depth-First Search (DFS): Explore vertices along a path until a dead end is reached, then backtrack and explore another path.
+
+### Applications of Graphs
+- Modeling networks (social, computer, transportation).
+- Route finding (GPS navigation).
+- Task scheduling (dependency relationships).
+- Minimum spanning tree (finding the most efficient set of connections).
+
+### Additional Graph Concepts
+- River Size Problem: Finding the size (number of nodes) of the connected component containing a given vertex.
+
+## Algorithms
+
+Some algorithms heavily utilize the data structures covered this week.
+
+- Greedy Method: An algorithmic approach that makes the optimal choice at each step with the aim of finding a near-optimal solution overall.
+- Graph Algorithms:
+  - Minimum Spanning Tree (MST) Algorithms:
+    - Kruskal's Algorithm: A greedy algorithm to find a MST for a weighted graph.
+    - Prim's Algorithm: Another greedy algorithm for finding a MST.
+  - Shortest Path Algorithms:
+    - Dijkstra's Algorithm: Finding the shortest path between a source vertex and all other reachable vertices in a weighted graph.
+    - Bellman-Ford Algorithm: Can handle graphs with negative edge weights (Dijkstra's works for non-negative weights).
+  - Topological Sorting: Ordering vertices in a directed acyclic graph (DAG) such that for every directed edge from u to v, u appears before v in the ordering.
+  - Floyd-Warshall Algorithm: Finding the shortest paths between all pairs of vertices in a weighted graph.
+  - Bipartite Graph Checking: Determining if a graph is a bipartite graph.
+  - Max Flow Algorithm (Ford-Fulkerson Algorithm): Finding the maximum flow of data through a network.
+
+### Week 3 Additional Topics
+
+#### Questions and Discussions
+- Graph vs. Tree: Understand the key differences and relationships between trees and graphs.
+- Forest (in Tree): A collection of disconnected trees.
+- Operators:
+  - Binary Operators: Operations involving two operands (e.g., +, -, *).
+  - Priority: Order of operations based on precedence rules (e.g., multiplication before addition).
+  - Infix, Prefix (Polish Notation), Postfix (Reverse Polish Notation): Different ways to represent expressions.
+- General Concepts:
+  - Logarithms: Understand the concept of logarithms and their applications in computer science (e.g., time complexity analysis).
+  - File Structure vs. Data Structure: Differentiate between file structures for data storage and data structures for in-memory data organization.
+  - Data Structure Applications: Explore how data structures are used in various programming domains.
+  - Void vs. Null: Understand the difference between void (absence of a value) and null (a special pointer value).
+  - Dynamic Data Structures: Data structures that can grow or shrink in size at runtime.
+  - Dynamic Memory Management/Allocation: Techniques for allocating and freeing memory during program execution.
+  - Heap vs. Stack: Understand the differences between heaps (used for dynamic allocation) and stacks (used for function calls and local variables).
+  - Pointers in Data Structures:
+    - Mastering pointers is crucial for many data structures (especially trees and graphs).
+    - Explore how pointers allow efficient memory management and navigation within data structures.
+  - Recursive Algorithms:
+    - Understand the concept of recursion, a function that calls itself.
+    - Explore how recursion can be a powerful tool for solving problems that can be broken down into smaller, self-similar subproblems.
+    - Be aware of potential drawbacks of recursion, such as stack overflow for very deep recursion.
+  - Divide and Conquer on Recursion:
+    - Understand divide-and-conquer, a common algorithmic paradigm that recursively divides a problem into smaller subproblems, solves those subproblems, and combines the solutions.
+  - Which is the Fastest Sorting Algorithm Available?
+    - The answer depends on factors like data size, pre-sortedness, and memory usage.
+    - Heapsort (average/near worst-case - n log n) is often a good choice for general-purpose sorting.
+    - Quicksort (average - n log n, but worst-case - n^2) can be faster on average but has a worse worst-case scenario.
+    - Merge Sort (n log n) is generally slower than Heapsort or Quicksort on average but has a guaranteed n log n time complexity.
+  - Multi-Linked Lists:
+    - A data structure where each node can have multiple pointers to other nodes.
+    - Useful for representing complex relationships between data elements.
+  - Sparse Matrices:
+    - Matrices where most elements are zero.
+    - Special storage techniques can be used to efficiently represent and manipulate sparse matrices.
+  - Disadvantages of Implementing Queues Using Arrays:
+    - Fixed size: Arrays cannot grow or shrink dynamically, limiting flexibility.
+    - Queue overflow/underflow: Handling these conditions can be complex with arrays.
+  - Void Pointer:
+    - A pointer that can point to any data type.
+    - Useful for generic programming techniques.
+  - Lexical Analysis:
+    - The process of breaking down text into meaningful units (tokens) like keywords, identifiers, operators.
+  - Lexeme:
+    - A meaningful sequence of characters identified during lexical analysis (e.g., a keyword like "if").
+  - Pattern Matching:
+    - Finding specific patterns (sequences of characters or symbols) within text or data.
+  - Closest Path (Graph):
+    - Finding the shortest path between two vertices in a graph.
+    - Often solved using graph traversal algorithms like Dijkstra's algorithm.
+  - Degree of the Node (Graph):
+    - The number of edges connected to a node in a graph.
+  - Spanning Tree:
+    - A subgraph of a graph that connects all its vertices without cycles.
+  - Minimum Spanning Tree (MST):
+    - A spanning tree with the minimum total edge weight.
+    - Useful for finding the most efficient set of connections in a weighted graph (e.g., Kruskal's or Prim's algorithm).
+  - AVL Tree:
+    - A self-balancing binary search tree with a maximum height difference of 1 between subtrees, ensuring efficient search time (logarithmic).
+  - B-Tree:
+    - A self-balancing tree designed for efficient storage and retrieval of large datasets, particularly useful for databases.
+  - Full Tree:
+    - Every node except possibly leaves has two children.
+  - Complete Tree:
+    - All levels except possibly the last are completely filled.
+  - Perfect Tree:
+    - Every internal node has two children and all leaves are at the same level.
+  - Heap Applications:
+    - Priority queues (e.g., scheduling tasks based on priority).
+    - Heapsort (efficient sorting algorithm).
+  - BFS Complexity:
+    - Breadth-First Search has a time complexity of O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+  - Shortest Path Algorithm:
+    - Dijkstra's algorithm and Bellman-Ford algorithm are commonly used shortest path algorithms with varying complexities depending on the graph type (weighted/unweighted, presence of negative edge weights).
+  - Dijkstra's Algorithm:
+    - Finds the shortest paths from a source vertex to all reachable vertices in a weighted graph with non-negative edge weights. Time complexity: O(V^2) in the worst case, but often performs better in practice (average complexity depends on the graph structure).
+  - Bellman-Ford Algorithm:
+    - Can handle graphs with negative edge weights. Time complexity: O(V * E).
+  - Topological Sorting:
+    - Ordering vertices in a directed acyclic graph (DAG) such that for every directed edge from u to v, u appears before v in the ordering. Time complexity: O(V + E).
+  - Acyclic Travel:
+    - Traversing acyclic
+    - Acyclic graphs (graphs without cycles) can be traversed efficiently using algorithms like topological sorting.
+  - Graph vs. Tree:
+    - Trees are hierarchical structures with a single root node and parent-child relationships.
+    - Graphs can be more general, allowing for cycles and representing arbitrary relationships between nodes.
+  - Additional Types of Graphs:
+    - Complete Graph: Every pair of vertices is connected by an edge.
+    - Graph Indexing: Techniques for efficiently searching and retrieving data within a graph structure.
+    - Representing Graphs in Memory: Different approaches to store graphs in memory using adjacency lists or adjacency matrices.
+  - Cycles Detection:
+    - Algorithms like depth-first search (DFS) can be used to detect cycles in graphs.
+  - Practical Questions Asked:
+    - Be prepared for interview-style questions that test your understanding of data structures and algorithms covered in Week 3. This could involve implementing algorithms, analyzing time and space complexity, or explaining trade-offs between different data structures.
+
+
+
 </details>
 
 # LeetCode Grind Resource for Beginners!
