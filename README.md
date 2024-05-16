@@ -1,3 +1,283 @@
+# Comprehensive Data Structures and Algorithms Roadmap for Beginners
+<details>
+	<summary>
+		<h2>Week 1</h2>
+	</summary>
+Welcome to the Comprehensive Data Structures and Algorithms (DSA) Roadmap for beginners! This roadmap equips you with a detailed understanding of fundamental concepts in Data Structures (DS) and Algorithms (Algo) during your first week of learning. Each section delves into specific topics with ample sample questions and practical exercises.
+
+## Focus Areas
+
+- Foundational Concepts
+- Arrays
+- Linked Lists
+- Strings
+- Searching Algorithms
+- Recursion
+- JavaScript Built-in Data Structures
+
+## Foundational Concepts
+
+### Data Structures (DS) and Algorithms (Algo)
+
+- Understand how DS organize data efficiently and Algo solve problems with step-by-step instructions.
+- Explore real-world examples of DS usage (e.g., shopping lists - arrays, social network connections - graphs).
+- **Sample Questions:**
+  - What are the different types of Data Structures? Explain their advantages and disadvantages.
+  - How do Algorithms help us solve computational problems? Provide examples of common algorithms used in daily life.
+
+### Memory Allocation and Memory Leaks
+
+- Grasp how programs manage memory during execution.
+- Understand the concept of memory leaks (unreleased memory) and their impact on program performance.
+- **Sample Questions:**
+  - Explain the difference between static and dynamic memory allocation.
+  - How do memory leaks occur in programs? Describe their consequences and prevention techniques.
+
+### Complexity Analysis
+
+- Learn how to measure the efficiency of algorithms based on time and space complexity.
+- Focus on Big-O Notation for asymptotic analysis, understanding how input size affects algorithm performance.
+- **Sample Questions:**
+  - Define time complexity and space complexity. How do they differ?
+  - Explain the concept of Big-O Notation. Analyze the time complexity of simple algorithms like finding the maximum element in an array.
+  - Explore different time complexities (Constant, Linear, Logarithmic, Quadratic, Exponential) with code examples.
+
+## Arrays
+
+### Array Concepts
+
+- Master the concept of arrays, their fixed size, and contiguous memory allocation.
+- Understand common array operations:
+  - Initialization: Creating an array with specific values.
+  - Accessing elements using indices.
+  - Modifying elements (Set, Update).
+  - Traversing through all elements (iteration).
+  - Inserting elements at specific positions.
+  - Deleting elements from specific positions.
+- **Sample Questions:**
+  - Implement functions to initialize an array with user-defined values and display its contents.
+  - Write code to find the sum or average of elements in an array.
+  - Practice inserting an element at the beginning, middle, or end of an array (shifting elements if needed).
+  - Implement a function to delete an element at a specific position and handle cases like deleting the first or last element.
+  - Reverse the order of elements in an array.
+
+### Leetcode Questions
+
+
+
+## Linked Lists
+
+### Introduction
+
+- Understand linked lists, their dynamic nature, and non-contiguous memory allocation.
+- Explore different types of linked lists: Singly Linked List (one pointer per node), Doubly Linked List (two pointers per node), Circular Linked List (tail points back to head).
+- **Sample Questions:**
+  - Differentiate between arrays and linked lists. Explain the advantages and disadvantages of each.
+  - Illustrate the concept of nodes in a linked list with diagrams.
+  - Describe the differences between Singly, Doubly, and Circular Linked Lists.
+
+### Building Linked Lists
+
+- Implement functions to create Singly and Doubly linked lists in your chosen programming language.
+- Understand how nodes are connected through pointers.
+- **Sample Questions:**
+  - Write code to create a Singly Linked List with a head node containing a specific value.
+  - Implement a function to insert a new node at the beginning of a Singly Linked List.
+  - Practice creating a Doubly Linked List with functionalities to add a node at the end.
+
+### Operations
+
+- Master linked list operations for both Singly and Doubly Linked Lists:
+  - Initialization (creating an empty list).
+  - Accessing elements (consider limitations due to non-indexed nature).
+  - Modifying elements (updating data within a node).
+  - Traversing through the list (iterating using pointers).
+  - Inserting elements at specific positions (handling edge cases like inserting at the beginning or end).
+  - Deleting elements with a specific value or at a specific position.
+- **Sample Questions:**
+  - Implement a function to traverse a Singly Linked List and print the data of each node.
+  - Write code to delete the head node, a specific node in the middle, or the last node in a Singly Linked List.
+  - Implement a function to reverse a Singly Linked List (iterative and recursive approaches).
+  - (For Doubly Linked Lists) Practice inserting a node before or after a specific node with a given value.
+  - (For Doubly Linked Lists) Write code to delete a node by just its reference (without searching for its value).
+
+### Conversion
+
+- Implement functions to convert an array to a linked list and vice versa.
+- Write code to take an array of integers and create a Singly Linked List with those elements.
+- Practice converting a Singly Linked List back into an array, preserving the element order.
+
+### Comparison
+
+- **Sample Questions :**
+  - Discuss the scenarios where arrays are preferable over linked lists and vice versa.
+  - Analyze the time and space complexity of common operations (access, insertion, deletion) for both arrays and linked lists.
+
+## Strings
+
+### String Fundamentals
+
+- Explore strings as data structures, understand primitive vs. object strings.
+- Grasp common string operations:
+  - Initialization: Creating a string with specific characters.
+  - Accessing characters using indices.
+  - Modifying characters (limited in most languages).
+- Finding the length of a string.
+  - Concatenation: Joining two or more strings.
+  - Searching for substrings within a string.
+  - Extracting substrings from a string.
+  - String comparison (lexicographic order).
+- **Sample Questions:**
+  - Implement functions to initialize a string with user input and display its characters.
+  - Write code to find the first or last occurrence of a specific character within a string.
+  - Practice extracting a substring from a string based on starting and ending indices.
+  - Implement a function to compare two strings lexicographically (alphabetical order).
+  - Write code to reverse a string (iterative and recursive approaches).
+
+### Sample Workouts
+
+- Explore string manipulation techniques like replacing characters, finding the frequency of each character, etc.
+
+## Searching Algorithms
+
+### Linear Search
+
+- Understand the concept of linear search, iterating through a list to find a specific element.
+- **Sample Questions:**
+  - Implement a function for linear search in arrays.
+  - Analyze the time complexity of linear search (worst-case scenario).
+  - Practice using linear search to find an element in a Singly Linked List (consider the limitations).
+
+### Binary Search
+
+- Learn the efficient binary search algorithm for sorted arrays, repeatedly halving the search space.
+- **Sample Questions:**
+  - Implement a function for binary search in sorted arrays.
+  - Explain why binary search only works on sorted arrays.
+  - Analyze the time complexity of binary search (logarithmic).
+  - Practice using binary search to find an element in a sorted Singly Linked List (potentially converting it to an array first).
+
+## Recursion
+
+### Understanding Recursion
+
+- Grasp the concept of recursive functions, where a function calls itself.
+- Understand the importance of base cases to prevent infinite recursion.
+- **Sample Questions:**
+  - Explain the concept of recursion with a simple example (e.g., factorial calculation).
+  - Identify potential issues with recursion (stack overflow errors) and how to avoid them.
+
+### Sample Workouts
+
+- Implement functions using recursion for problems like calculating factorial, finding Fibonacci numbers, performing a depth-first search on a tree (advanced).
+
+## JavaScript Built-in Data Structures
+
+### Arrays
+
+- Explore built-in methods like:
+  - push(): Add an element to the end of an array.
+  - pop(): Remove the last element from an array.
+  - shift(): Remove the first element from an array.
+  - unshift(): Add an element to the beginning of an array.
+  - forEach(): Execute a function for each element.
+  - map(): Create a new array with elements transformed by a function.
+  - filter(): Create a new array with elements that pass a test implemented by a function.
+  - reduce(): Reduce an array to a single value using a provided function.
+  - concat(): Merge two or more arrays.
+  - slice(): Extract a section of an array.
+  - splice(): Add/remove.
+- **Sample Questions (Continued):**
+  - Write code to use `forEach` to iterate through an array and print each element.
+  - Practice using `map` to create a new array with squares of all elements in the original array.
+  - Implement a function using `filter` to find all even numbers in an array.
+  - Explore using `reduce` to find the sum or average of elements in an array.
+
+### Objects
+
+- Understand object operations:
+  - Creating objects with key-value pairs.
+  - Accessing properties using dot notation or bracket notation.
+  - Modifying property values.
+  - Adding or removing properties.
+  - Checking if a property exists.
+- Explore built-in methods like:
+  - Object.keys(): Get an array of all object property names.
+  - Object.values(): Get an array of all object property values.
+  - Object.entries(): Get an array of key-value pairs as arrays.
+- **Sample Questions:**
+  - Implement code to create an object representing a person with properties like name, age, and city.
+  - Write code to access and modify a specific property value within an object.
+  - Practice using `Object.keys` to iterate through all properties of an object and print their values.
+  - Explore using `Object.entries` to create a new array containing key-value pairs from an object.
+
+## Bonus Topics (for curious minds)
+
+- Linear vs. Non-linear Data Structures (e.g., Arrays vs. Trees, Graphs)
+- Contiguous vs. Non-contiguous Memory Allocation (related to Arrays vs. Linked Lists)
+- Stack vs. Heap Memory (different memory management regions)
+- Garbage Collection (automatic memory management in languages like JavaScript)
+- Jagged Arrays (arrays of arrays)
+- Pros and Cons of Recursion (efficiency considerations)
+- Factorial, Fibonacci, Prime Number Calculations (with and without recursion)
+
+## Remember
+
+- Practice consistently!
+- Experiment with code examples and test your understanding with additional problems.
+- Refer to online tutorials and visualizations for better comprehension.
+ 
+</details>
+
+<details>
+	<summary>
+		<h2>Week 2</h2>
+	</summary>
+
+ ### Sets
+
+- Understand Sets, collections of unique values.
+- Explore common Set operations:
+  - Adding elements (add()).
+  - Checking if an element exists (has()).
+  - Removing elements (delete()).
+  - Finding the size of the Set (size()).
+  - Removing all elements (clear()).
+- **Sample Questions:**
+  - Write code to create a Set containing unique names from an array of strings.
+  - Implement a function to check if a specific element exists in a Set.
+  - Practice removing duplicate elements from an array using Sets.
+
+### Maps
+
+- Understand Maps, collections that use key-value pairs (like objects but can have any data type as keys).
+- Explore common Map operations (similar to Sets):
+  - Setting key-value pairs (set()).
+  - Getting the value for a key (get()).
+  - Checking if a key exists (has()).
+  - Removing a key-value pair (delete()).
+  - Finding the size of the Map (size()).
+  - Removing all elements (clear()).
+- **Sample Questions:**
+  - Implement code to create a Map where keys are student IDs and values are student names.
+  - Write a function to retrieve the name of a student given their ID (using a Map).
+  - Practice using Maps to store configuration settings with key-value pairs.
+
+### Comparison
+
+- **Sample Questions:**
+  - Discuss the use cases for Arrays vs. Sets and Objects vs. Maps.
+  - Analyze the time complexity of common operations (add, remove, search) for Arrays, Sets, and Maps.
+
+
+</details>
+
+<details>
+	<summary>
+		<h2>Week 3</h2>
+	</summary>
+</details>
+
 # LeetCode Grind Resource for Beginners!
 
 ### Hey folks! 👋 If you're diving into the world of LeetCode and looking for a structured path to improve your skills, I've curated a list of questions in the order of increasing complexity. 📈
