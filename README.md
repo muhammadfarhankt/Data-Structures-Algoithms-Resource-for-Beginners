@@ -629,7 +629,105 @@ Some algorithms heavily utilize the data structures covered this week.
   - Practical Questions Asked:
     - Be prepared for interview-style questions that test your understanding of data structures and algorithms covered in Week 3. This could involve implementing algorithms, analyzing time and space complexity, or explaining trade-offs between different data structures.
 
+</details>
 
+<details>
+	<summary><h2>LeetCode Practice Questions by Week</h2></summary>
+
+## Week 1: Arrays, Strings, Linked Lists
+
+### Arrays (Easy):
+1. [Two Sum](https://leetcode.com/problems/two-sum/) (1)
+2. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (3)
+3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (121)
+4. [Missing Number](https://leetcode.com/problems/missing-number/) (268)
+5. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (283)
+
+### Arrays (Medium):
+6. [3Sum](https://leetcode.com/problems/3sum/) (15)
+7. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (26)
+8. [Rotate Array](https://leetcode.com/problems/rotate-array/) (189)
+9. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) (56)
+10. [Majority Element](https://leetcode.com/problems/majority-element/) (169)
+
+### Strings (Easy):
+11. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (3)
+12. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) (13)
+13. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (20)
+14. [Reverse String](https://leetcode.com/problems/reverse-string/) (344)
+15. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (14)
+
+### Strings (Medium):
+16. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (49)
+17. [Edit Distance](https://leetcode.com/problems/edit-distance/) (72)
+
+## Week 2: Sorting Algorithms, Stacks & Queues, Hash Tables
+
+### Sorting Algorithms (Easy):
+18. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (21)
+19. [Majority Element](https://leetcode.com/problems/majority-element/) (169)
+20. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) (88)
+
+### Sorting Algorithms (Medium):
+21. [Sort Colors](https://leetcode.com/problems/sort-colors/) (75)
+22. [Sort an Array](https://leetcode.com/problems/sort-an-array/) (912)
+23. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (215)
+
+### Stacks (Easy):
+24. [Min Stack](https://leetcode.com/problems/min-stack/) (155)
+25. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (232)
+26. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (102)
+
+### Queues (Easy):
+27. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (232)
+28. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (102)
+29. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) (225)
+
+### Hash Tables (Easy):
+30. [Two Sum](https://leetcode.com/problems/two-sum/) (1)
+31. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) (205)
+32. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (347)
+
+### Hash Tables (Medium):
+33. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (3)
+34. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (49)
+35. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (208)
+
+## Week 3: Trees, Binary Search Trees, Heaps, Tries, Graphs
+
+### Trees (Easy):
+36. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (94)
+37. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (101)
+38. [Path Sum](https://leetcode.com/problems/path-sum/) (112)
+
+### Binary Search Trees (Easy):
+39. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (98)
+40. [Same Tree](https://leetcode.com/problems/same-tree/) (100)
+41. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (230)
+
+### Binary Search Trees (Medium):
+42. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (700)
+43. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (235)
+
+### Heaps (Easy):
+44. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (215)
+45. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) (371)
+
+### Heaps (Medium):
+46. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+47. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+### Tries (Easy):
+48. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (208)
+49. [Word Search II](https://leetcode.com/problems/word-search-ii/)
+
+### Graphs (Easy):
+50. [Clone Graph](https://leetcode.com/problems/clone-graph/) (133)
+51. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+### Graphs (Medium):
+52. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+53. [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 
 </details>
 
