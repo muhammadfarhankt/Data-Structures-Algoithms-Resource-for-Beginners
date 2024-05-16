@@ -234,6 +234,150 @@ Welcome to the Comprehensive Data Structures and Algorithms (DSA) Roadmap for be
 		<h2>Week 2</h2>
 	</summary>
 
+#### This roadmap equips you with fundamental knowledge of sorting algorithms, stacks & queues, and hash tables in your second week of learning Data Structures (DS) and Algorithms (Algo).
+
+## Sorting Algorithms
+
+### Understanding Sorting: 
+Grasp the concept of sorting algorithms for rearranging elements based on a specific order (ascending or descending). Explore various techniques for different scenarios.
+
+### Sorting Techniques: 
+We'll cover five common sorting algorithms, each with complexities, advantages, and disadvantages:
+- **Bubble Sort**: Simple but inefficient for large datasets - quadratic time complexity.
+- **Insertion Sort**: Iterative approach, good for partially sorted data - average case closer to linear time complexity.
+- **Selection Sort**: Repeatedly finding minimum/maximum element and placing it - quadratic time complexity.
+
+### Sample Questions: 
+* Implement functions for Bubble Sort, Insertion Sort, and Selection Sort.
+* Analyze the time complexity (best, average, worst case) of each sorting algorithm.
+* Discuss the strengths and weaknesses of each sorting technique.
+
+### Advanced Sorting Techniques: 
+Explore more complex but efficient sorting algorithms for larger datasets:
+- **Quick Sort**: Divide-and-conquer strategy, pivoting elements to partition the data - average near linear time complexity, but can degrade to worst-case quadratic.
+- **Merge Sort**: Another divide-and-conquer approach, recursively dividing data until single elements, then merging sorted sub-lists - near linear time complexity.
+
+### Sample Questions: 
+* Implement functions for Quick Sort and Merge Sort.
+* Analyze the time complexity of Quick Sort and Merge Sort.
+* Compare the performance of Quick Sort and Merge Sort in different scenarios (stability, in-place vs. extra space).
+
+### Sorting Algorithm Comparison: 
+Understand when to choose specific sorting algorithms based on data size, desired order, and stability requirements.
+
+## Stacks and Queues
+
+### Stack and Queue Concepts: 
+Grasp the concept of stacks (LIFO - Last In First Out) and queues (FIFO - First In First Out) as linear data structures. Explore their real-world applications.
+
+### Stack Operations: 
+Implement stacks using arrays and linked lists. Master stack operations:
+- **Push**: Add an element to the top of the stack.
+- **Pop**: Remove and return the top element from the stack.
+- **Peek**: Access the top element without removing it.
+- **IsEmpty**: Check if the stack is empty.
+- **IsFull**: Check if the stack is full (relevant for array implementation).
+
+### Sample Questions: 
+* Write code to implement a stack using an array and perform push, pop, peek, and isEmpty operations.
+* Implement a stack using a linked list with similar functionalities.
+
+### Queue Operations: 
+Implement queues using arrays and linked lists. Master queue operations:
+- **Enqueue**: Add an element to the back of the queue.
+- **Dequeue**: Remove and return the front element from the queue.
+- **Peek**: Access the front element without removing it.
+- **IsEmpty**: Check if the queue is empty.
+- **IsFull**: Check if the queue is full (relevant for array implementation).
+
+### Sample Questions: 
+* Write code to implement a queue using an array and perform enqueue, dequeue, peek, and isEmpty operations.
+* Implement a queue using a linked list with similar functionalities.
+
+### Advanced Stack and Queue Concepts: 
+Explore additional stack and queue concepts:
+- **Circular Queue**: A queue where the last element wraps around to the beginning.
+- **Priority Queue**: A queue where elements are prioritized based on a specific value (e.g., importance).
+
+### Sample Questions: 
+* Implement a circular queue using an array, handling the wrapping behavior.
+* Discuss the use cases of priority queues and how they prioritize elements.
+
+### Stack and Queue Applications: 
+Understand the various applications of stacks and queues in real-world scenarios (e.g., function call stack, undo/redo functionality, task scheduling).
+
+## Hash Tables
+
+### Hash Table Fundamentals: 
+Grasp the concept of hash tables, a data structure for efficient key-value lookup. Understand how hash tables use hash functions to map keys to unique indices in an array. Explore the advantages of hash tables for fast retrieval based on keys.
+
+### Hash Functions: 
+Learn about hash functions, algorithms that convert keys into unique indices within a specific range. Explore different hash function properties like efficiency and collision avoidance.
+
+### Sample Questions: 
+* Implement a simple hash function for strings (e.g., sum of character codes modulo table size).
+
+### Hash Table Implementation: 
+Explore ways to implement hash tables using arrays. Understand how to handle collisions (situations where multiple keys map to the same index).
+
+### Sample Questions (continued): 
+* Implement a basic hash table with separate chaining for collision handling (storing colliding elements in a linked list at the corresponding index).
+
+### Collision Handling Methods:
+
+Deep dive into various collision handling techniques:
+- **Separate Chaining**: Storing colliding elements in a linked list at the index.
+- **Open Addressing**: Probing for the next available slot in the array when a collision occurs (linear probing, quadratic probing, double hashing).
+
+### Sample Questions (continued): 
+* Implement a hash table with linear probing for collision handling.
+* Discuss the trade-offs between separate chaining and open addressing techniques.
+
+### Perfect Hashing (Optional):
+Briefly explore the concept of perfect hashing, where a hash function guarantees no collisions (advanced topic).
+
+### Re-Hashing: 
+Understand the concept of re-hashing, resizing the hash table when the load factor (number of elements divided by table size) becomes too high.
+
+### Hash Table vs. Set: 
+Compare and contrast hash tables and sets, understanding their key differences and use cases.
+
+### Sample Questions (continued): 
+* Discuss scenarios where a hash table might be preferable over a set, and vice versa.
+
+### Hash Key vs. Array Key: 
+Differentiate between hash keys (used for lookup) and array indices (fixed positions in an array).
+
+### Dynamic Restructuring: 
+Explore how hash tables can dynamically resize themselves to maintain efficiency.
+
+### Week Set, Week Map (Optional): 
+Briefly discuss week set and week map as specialized hash table implementations (advanced topic).
+
+### Collision Handling - Deep Dive (Optional): 
+For interested learners, delve deeper into specific collision handling techniques like:
+- **Linear Probing**: Probing for the next available slot in a linear fashion.
+- **Quadratic Probing**: Probing with a quadratic function to reduce clustering of collided elements.
+- **Double Hashing**: Using a secondary hash function to probe for a different set of indices in case of a collision.
+
+### Clustering: 
+Understand the concept of clustering in hash tables, where collisions tend to group together, impacting performance.
+
+### Advanced Collision Handling Techniques (Optional): 
+Explore advanced collision handling techniques like:
+- **Cuckoo Hashing**: Utilizing two hash tables to resolve collisions.
+- **Robin Hood Hashing**: Stealing elements from less loaded buckets to improve balance.
+
+### SHA - Secure Hashing Algorithm (Optional): 
+Briefly introduce the concept of secure hashing algorithms like SHA, used for data integrity and security purposes.
+
+## Remember:
+
+- Practice implementing hash tables with different collision handling techniques.
+- Experiment with various hash functions and analyze their impact on performance.
+- Refer to online resources for further exploration of advanced hashing concepts.
+- This roadmap equips you with a solid foundation for understanding sorting algorithms, stacks & queues, and hash tables. Keep practicing and
+
  ### Sets
 
 - Understand Sets, collections of unique values.
