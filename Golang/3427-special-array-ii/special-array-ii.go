@@ -8,11 +8,11 @@ func isArraySpecial(nums []int, queries [][]int) []bool {
         }
     }
     output := make([]bool, len(queries))
-    for idx, query := range queries {
-        if parityArr[query[1]] - parityArr[query[0]] > 0 {
-            output[idx] = false
+    for i := 0; i < len(queries); i++ {
+        if parityArr[queries[i][1]] - parityArr[queries[i][0]] > 0 {
+            output[i] = false
         } else {
-            output[idx] = true
+            output[i] = true
         }
     }
     return output
