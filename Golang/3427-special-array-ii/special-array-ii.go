@@ -9,7 +9,7 @@ func isArraySpecial(nums []int, queries [][]int) []bool {
     }
     output := make([]bool, len(queries))
     for i := 0; i < len(queries); i++ {
-        if parityArr[queries[i][1]] - parityArr[queries[i][0]] <= 0 {
+        if (parityArr[queries[i][1]] - parityArr[queries[i][0]]) == 0 {
             output[i] = true
         }
     }
