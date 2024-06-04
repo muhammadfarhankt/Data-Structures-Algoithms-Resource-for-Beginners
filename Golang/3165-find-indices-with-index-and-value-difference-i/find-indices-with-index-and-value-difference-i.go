@@ -2,7 +2,7 @@ func findIndices(nums []int, indexDifference int, valueDifference int) []int {
     n := len(nums)
     for i := 0; i < n; i++ {
         for j := i + indexDifference; j < n; j++ {
-            if abs(nums[i] - nums[j]) >= valueDifference {
+            if (abs(nums[i] - nums[j])) >= valueDifference {
                 return []int{i, j}
             }
         }
