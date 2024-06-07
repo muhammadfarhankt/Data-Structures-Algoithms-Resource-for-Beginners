@@ -6,8 +6,8 @@ func largestLocal(grid [][]int) [][]int {
         output[i] = make([]int, n-2)
     }
     // fmt.Println(output)
-    for i := 0; i <= n-3; i++ {
-        for j := 0; j <= n-3; j++ {
+    for i := 0; i < n-2; i++ {
+        for j := 0; j < n-2; j++ {
             max := grid[i][j]
             for k := i; k < i+3; k++ {
                 for l := j; l < j+3; l++ {
