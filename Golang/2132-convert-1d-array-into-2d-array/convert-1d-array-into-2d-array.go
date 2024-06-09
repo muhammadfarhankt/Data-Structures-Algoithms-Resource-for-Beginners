@@ -1,6 +1,5 @@
 func construct2DArray(original []int, m int, n int) [][]int {
-    size := len(original)
-    if n * m != size {
+    if n * m != len(original) {
         return [][]int{}
     }
     output := make([][]int, m)
