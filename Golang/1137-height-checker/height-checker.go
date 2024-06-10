@@ -3,8 +3,6 @@ func heightChecker(heights []int) int {
     temp = append(temp, heights...)
     count := 0
     sort.Ints(temp)
-    fmt.Println(temp)
-    fmt.Println(heights)
     for i := 0; i < len(heights); i++ {
         if heights[i] != temp[i] {
             count++
