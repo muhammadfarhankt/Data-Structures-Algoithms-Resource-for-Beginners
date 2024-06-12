@@ -1,7 +1,7 @@
 # Comprehensive Data Structures and Algorithms Roadmap for Beginners
 <details>
 	<summary>
-		<h2>Week 1</h2>
+		<h2>Basics </h2>
 	</summary>
 Welcome to the Comprehensive Data Structures and Algorithms (DSA) Roadmap for beginners! This roadmap equips you with a detailed understanding of fundamental concepts in Data Structures (DS) and Algorithms (Algo) during your first week of learning. Each section delves into specific topics with ample sample questions and practical exercises.
 
@@ -231,7 +231,7 @@ Welcome to the Comprehensive Data Structures and Algorithms (DSA) Roadmap for be
 
 <details>
 	<summary>
-		<h2>Week 2</h2>
+		<h2>Intermediate</h2>
 	</summary>
 
 #### This roadmap equips you with fundamental knowledge of sorting algorithms, stacks & queues, and hash tables in your second week of learning Data Structures (DS) and Algorithms (Algo).
@@ -418,7 +418,7 @@ Briefly introduce the concept of secure hashing algorithms like SHA, used for da
 
 <details>
 	<summary>
-		<h2>Week 3</h2>
+		<h2>Advanced</h2>
 	</summary>
 
 ## Trees
