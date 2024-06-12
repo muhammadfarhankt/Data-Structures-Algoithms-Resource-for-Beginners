@@ -112,6 +112,8 @@ Welcome to the Comprehensive Data Structures and Algorithms (DSA) Roadmap for be
 - **Sample Questions :**
   - Discuss the scenarios where arrays are preferable over linked lists and vice versa.
   - Analyze the time and space complexity of common operations (access, insertion, deletion) for both arrays and linked lists.
+ 
+### [15 LeetCode problems to get good at Linked List:](https://www.linkedin.com/posts/ashishps1_15-leetcode-problems-to-get-good-at-linked-activity-7206294158251102208-xQqD?utm_source=share&utm_medium=member_desktop)
 
 ## Strings
 
