@@ -1,11 +1,15 @@
 func majorityElement(nums []int) int {
-    n := len(nums)
-    numsMap := make(map[int]int, n)
-    for i := 0; i < n; i++ {
-        numsMap[nums[i]]++
-        if numsMap[nums[i]] > (n / 2) {
-            return nums[i]
+    numMap := make(map[int]int)
+    for _, num := range nums {
+        numMap[num]++
+    }
+    large := 1
+    num := nums[0]
+    for index, value := range numMap {
+        if value > large {
+            large = value
+            num = index
         }
     }
-    return 0
+    return num
 }
