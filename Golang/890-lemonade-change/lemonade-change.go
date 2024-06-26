@@ -1,5 +1,5 @@
 func lemonadeChange(bills []int) bool {
-    five, ten, twenty := 0, 0, 0
+    five, ten := 0, 0
     for _, bill := range bills {
         if bill == 5 {
             five++
@@ -14,7 +14,6 @@ func lemonadeChange(bills []int) bool {
             if five > 0 && ten > 0 {
                 five--
                 ten--
-                twenty++
             } else if five > 2 {
                 five -= 3
             } else {
