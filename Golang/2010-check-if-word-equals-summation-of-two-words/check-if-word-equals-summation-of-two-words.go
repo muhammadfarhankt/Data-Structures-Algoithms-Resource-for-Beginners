@@ -9,7 +9,7 @@ func isSumEqual(firstWord string, secondWord string, targetWord string) bool {
     for _, char := range targetWord {
         targetSum = targetSum * 10 + int(char - 'a')
     }
-    fmt.Println(word2, targetSum)
+    // fmt.Println(word2, targetSum)
     if word1 + word2 == targetSum {
         return true
     }
