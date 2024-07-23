@@ -1,13 +1,10 @@
 func replaceElements(arr []int) []int {
-    output := make([]int, len(arr))
-    for i := 0; i < len(arr); i++ {
-        max := -1
-        for j := i+1; j < len(arr); j++ {
-            if arr[j] > max {
-                max = arr[j]
-            }
+    for i, max := len(arr)-1, -1; i >= 0; i-- {
+        if arr[i] > max {
+            arr[i], max = max, arr[i]
+        } else {
+            arr[i] = max
         }
-        output[i] = max
     }
-    return output
+    return arr
 }
