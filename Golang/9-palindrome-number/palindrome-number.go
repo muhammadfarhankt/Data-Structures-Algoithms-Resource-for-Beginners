@@ -8,8 +8,7 @@ func isPalindrome(x int) bool {
         y=y/10
     }
     if newNum == x {
-                                                    return true
-                                                        }else{
-                                                              return false
-                                                                 }
-                                                                  }
+        return true
+    }
+    return false
+}
