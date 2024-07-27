@@ -8,7 +8,7 @@ func rotate(nums []int, k int)  {
     for i := k; i < size; i++ {
         newArr[i] = nums[i-k]
     }
-    fmt.Println(newArr)
+    // fmt.Println(newArr)
     for i := 0; i < size; i++ {
         nums[i] = newArr[i]
     }
