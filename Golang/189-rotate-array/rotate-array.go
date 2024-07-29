@@ -1,15 +1,17 @@
 func rotate(nums []int, k int)  {
     size := len(nums)
-    newArr := make([]int, size)
     k = k % size
-    for i := 0; i < k; i++ {
-        newArr[i] = nums[size-k+i]
+    for i := 0; i < size / 2; i++ {
+        nums[i], nums[size-i-1] = nums[size-i-1], nums[i]
     }
-    for i := k; i < size; i++ {
-        newArr[i] = nums[i-k]
+    fmt.Println("Reverse : ", nums)
+    for i := 0; i < k/2; i++ {
+        nums[i], nums[k-i-1] = nums[k-i-1], nums[i]
     }
-    // fmt.Println(newArr)
-    for i := 0; i < size; i++ {
-        nums[i] = newArr[i]
+    fmt.Println("first : ", nums)
+    for i, j := k, 1; i < (size + k) / 2; i++ {
+        nums[i], nums[size-j] = nums[size-j], nums[i]
+        j++
     }
+    fmt.Println("second : ", nums)
 }
