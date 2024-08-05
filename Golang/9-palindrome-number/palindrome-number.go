@@ -1,4 +1,10 @@
 func isPalindrome(x int) bool {
+    if x < 0 {
+        return false
+    }
+    if x < 10 {
+        return true
+    }
     temp := 0
     newNum := 0
     y := x
