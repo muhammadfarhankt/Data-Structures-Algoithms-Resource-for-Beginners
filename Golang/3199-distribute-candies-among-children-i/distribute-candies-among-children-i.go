@@ -5,6 +5,8 @@ func distributeCandies(n int, limit int) int {
 			for k := 0; k <= limit; k++ {
 				if i+j+k == n {
 					result++
+				} else if i+j+k > n {
+					break
 				}
 			}
 		}
