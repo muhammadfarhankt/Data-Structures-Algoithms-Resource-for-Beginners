@@ -8,9 +8,8 @@ func sumOfEncryptedInt(nums []int) int {
 func encrypt(num int) int {
     count, large := 0, 0
     for num > 0 {
-        digit := num % 10
-        if digit > large {
-            large = digit
+        if num % 10 > large {
+            large = num % 10
         }
         num /= 10
         count++
