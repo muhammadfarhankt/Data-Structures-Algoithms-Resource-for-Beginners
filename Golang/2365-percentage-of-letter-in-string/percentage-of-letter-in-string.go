@@ -6,5 +6,5 @@ func percentageLetter(s string, letter byte) int {
         }
     }
     // fmt.Println("COUNT : ", count, "LENGTH  : ", len(s))
-    return int(float64(count) / float64(len(s)) * 100)
+    return (count * 100) / len(s)
 }
