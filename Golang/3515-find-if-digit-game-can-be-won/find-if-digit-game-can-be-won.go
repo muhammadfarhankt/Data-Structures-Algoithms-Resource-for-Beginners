@@ -7,5 +7,5 @@ func canAliceWin(nums []int) bool {
             doubleSum += num
         }
     }
-    return singleSum > doubleSum || doubleSum > singleSum
+    return singleSum != doubleSum
 }
