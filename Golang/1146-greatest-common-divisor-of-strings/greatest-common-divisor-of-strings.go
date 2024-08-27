@@ -12,10 +12,10 @@
             sSize, lSize = len(str1), len(str2)
         }
         // fmt.Println("Small : ", small)
-        fmt.Println("size : ", sSize, "\nLarge : ", large, "Size : ", lSize)
+        // fmt.Println("size : ", sSize, "\nLarge : ", large, "Size : ", lSize)
         for i := sSize; i > 0; i-- {
             if sSize % i == 0 && lSize % i == 0 {
-                fmt.Println(small[:i])
+                // fmt.Println(small[:i])
                 temp1 := strings.Repeat(small[:i], sSize / i)
                 temp2 := strings.Repeat(small[:i], lSize / i)
                 if temp1 == small && temp2 == large {
