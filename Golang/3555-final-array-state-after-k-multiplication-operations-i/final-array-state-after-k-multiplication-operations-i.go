@@ -1,8 +1,7 @@
 func getFinalState(nums []int, k int, multiplier int) []int {
-    for k != 0 {
+    for i := 1; i <= k; i++ {
         idx := minim(nums)
         nums[idx] *= multiplier
-        k--
     }
     return nums
 }
