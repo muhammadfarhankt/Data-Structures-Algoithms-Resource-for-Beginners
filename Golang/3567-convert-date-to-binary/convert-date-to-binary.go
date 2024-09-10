@@ -1,11 +1,11 @@
 func convertDateToBinary(date string) string {
-    output := ""
-    output += convert(date[:4]) + "-" + convert(date[5:7]) + "-" + convert(date[8:10])
+    // output := ""
+    // output += convert(date[:4]) + "-" + convert(date[5:7]) + "-" + convert(date[8:10])
     fmt.Println(convert(date[:4]))
     // fmt.Println((date[5:7]))
     // fmt.Println((date[8:10]))
     // fmt.Println(output)
-    return output
+    return fmt.Sprintf("%v-%v-%v",convert(date[:4]),convert(date[5:7]),convert(date[8:10]))
 }
 
 func convert(val string) string {
