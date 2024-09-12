@@ -1,13 +1,13 @@
 func countConsistentStrings(allowed string, words []string) int {
-    allowedMap := make(map[rune]bool)
+    allowedArr := make([]bool, 26)
     var count int
     for _, char := range allowed {
-        allowedMap[char] = true
+        allowedArr[char - 'a'] = true
     }
     for _, word := range words {
         var flag bool
         for _, char := range word {
-            if _, found := allowedMap[char]; !found {
+            if !allowedArr[char - 'a'] {
                 flag = true
                 break
             }
