@@ -2,3 +2,4 @@
 3289-the-two-sneaky-numbers-of-digitville|Easy|1730836800000
 228-summary-ranges|Easy|1731268800000
 3079-find-the-sum-of-encrypted-integers|Easy|1731355200000
+1436-destination-city|Easy|1732046400000
