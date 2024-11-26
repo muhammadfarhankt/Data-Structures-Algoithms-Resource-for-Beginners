@@ -4,3 +4,4 @@
 3079-find-the-sum-of-encrypted-integers|Easy|1731355200000
 1436-destination-city|Easy|1732046400000
 3274-check-if-two-chessboard-squares-have-the-same-color|Easy|1732305600000
+3340-check-balanced-string|Easy|1732564800000
