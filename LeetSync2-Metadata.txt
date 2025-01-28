@@ -8,3 +8,4 @@
 175-combine-two-tables|Easy|1732737600000
 88-merge-sorted-array|Easy|1733601600000
 2248-intersection-of-multiple-arrays|Easy|1737057600000
+3345-smallest-divisible-digit-product-i|Easy|1738008000000
