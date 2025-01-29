@@ -9,3 +9,4 @@
 88-merge-sorted-array|Easy|1733601600000
 2248-intersection-of-multiple-arrays|Easy|1737057600000
 3345-smallest-divisible-digit-product-i|Easy|1738008000000
+1684-count-the-number-of-consistent-strings|Easy|1738094400000
