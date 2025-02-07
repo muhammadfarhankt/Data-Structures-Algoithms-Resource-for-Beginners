@@ -11,3 +11,4 @@
 3345-smallest-divisible-digit-product-i|Easy|1738008000000
 1684-count-the-number-of-consistent-strings|Easy|1738094400000
 3370-smallest-number-with-all-set-bits|Easy|1738526400000
+3300-minimum-element-after-replacement-with-digit-sum|Easy|1738958400000
