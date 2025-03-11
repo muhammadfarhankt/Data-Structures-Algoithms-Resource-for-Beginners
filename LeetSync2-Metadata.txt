@@ -13,3 +13,4 @@
 3370-smallest-number-with-all-set-bits|Easy|1738526400000
 3300-minimum-element-after-replacement-with-digit-sum|Easy|1738958400000
 2278-percentage-of-letter-in-string|Easy|1741550400000
+3248-snake-in-matrix|Easy|1741636800000
