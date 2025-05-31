@@ -16,3 +16,4 @@
 3248-snake-in-matrix|Easy|1741636800000
 2894-divisible-and-non-divisible-sums-difference|Easy|1748462400000
 2235-add-two-integers|Easy|1748548800000
+2469-convert-the-temperature|Easy|1748635200000
