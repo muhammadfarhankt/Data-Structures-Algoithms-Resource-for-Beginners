@@ -6,5 +6,6 @@ func returnToBoundaryCount(nums []int) int {
             count++
         }
     }
+    
     return count
 }
