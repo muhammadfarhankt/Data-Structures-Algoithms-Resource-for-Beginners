@@ -18,3 +18,4 @@
 2235-add-two-integers|Easy|1748548800000
 2469-convert-the-temperature|Easy|1748635200000
 2413-smallest-even-multiple|Easy|1748721600000
+412-fizz-buzz|Easy|1748894400000
