@@ -21,3 +21,4 @@
 412-fizz-buzz|Easy|1748894400000
 3028-ant-on-the-boundary|Easy|1748894400000
 Golang/2455-average-value-of-even-numbers-that-are-divisible-by-three|Easy|1749067200000
+Golang/1614-maximum-nesting-depth-of-the-parentheses|Easy|1749067200000
