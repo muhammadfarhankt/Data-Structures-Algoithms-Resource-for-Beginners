@@ -20,3 +20,4 @@
 2413-smallest-even-multiple|Easy|1748721600000
 412-fizz-buzz|Easy|1748894400000
 3028-ant-on-the-boundary|Easy|1748894400000
+Golang/2455-average-value-of-even-numbers-that-are-divisible-by-three|Easy|1749067200000
