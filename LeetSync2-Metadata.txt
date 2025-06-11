@@ -24,3 +24,4 @@ Golang/2455-average-value-of-even-numbers-that-are-divisible-by-three|Easy|17490
 Golang/1614-maximum-nesting-depth-of-the-parentheses|Easy|1749067200000
 Golang/1952-three-divisors|Easy|1749412800000
 Golang/2427-number-of-common-factors|Easy|1749499200000
+Golang/1979-find-greatest-common-divisor-of-array|Easy|1749585600000
