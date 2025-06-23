@@ -28,3 +28,4 @@ Golang/1979-find-greatest-common-divisor-of-array|Easy|1749585600000
 Golang/1108-defanging-an-ip-address|Easy|1749672000000
 Golang/1-two-sum|Easy|1749931200000
 Golang/657-robot-return-to-origin|Easy|1750104000000
+Golang/2833-furthest-point-from-origin|Easy|1750622400000
