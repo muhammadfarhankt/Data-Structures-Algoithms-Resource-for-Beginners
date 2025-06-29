@@ -30,3 +30,4 @@ Golang/1-two-sum|Easy|1749931200000
 Golang/657-robot-return-to-origin|Easy|1750104000000
 Golang/2833-furthest-point-from-origin|Easy|1750622400000
 Golang/9-palindrome-number|Easy|1750708800000
+Golang/1281-subtract-the-product-and-sum-of-digits-of-an-integer|Easy|1751140800000
