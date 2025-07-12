@@ -1,13 +1,13 @@
 func checkPerfectNumber(num int) bool {
-    if num == 1 {
-        return false
-    }
-    sum := 0
-    for i:=1; i*i <= num; i++ {
+    sum, i := 0, 1
+    for i <= num/2 {
         if num % i == 0 {
-            sum += i + (num / i)
+            sum += i
         }
+        i++
     }
-    //fmt.Println(sum)
-    return sum-num == num
+    if sum == num {
+        return true
+    }
+    return false
 }
