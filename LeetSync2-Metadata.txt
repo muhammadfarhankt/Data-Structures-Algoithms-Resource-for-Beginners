@@ -33,3 +33,4 @@ Golang/9-palindrome-number|Easy|1750708800000
 Golang/1281-subtract-the-product-and-sum-of-digits-of-an-integer|Easy|1751140800000
 Golang/2535-difference-between-element-sum-and-digit-sum-of-an-array|Easy|1753905600000
 Golang/2180-count-integers-with-even-digit-sum|Easy|1753992000000
+Golang/3099-harshad-number|Easy|1754164800000
