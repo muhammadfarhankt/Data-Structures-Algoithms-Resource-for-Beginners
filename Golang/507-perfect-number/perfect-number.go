@@ -1,10 +1,9 @@
 func checkPerfectNumber(num int) bool {
-    sum, i := 0, 1
-    for i <= num/2 {
+    sum := 0
+    for i := 1; i <= num/2; i++ {
         if num % i == 0 {
             sum += i
         }
-        i++
     }
     if sum == num {
         return true
