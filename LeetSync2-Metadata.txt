@@ -36,3 +36,4 @@ Golang/2180-count-integers-with-even-digit-sum|Easy|1753992000000
 Golang/3099-harshad-number|Easy|1754164800000
 Golang/507-perfect-number|Easy|1754164800000
 Golang/367-valid-perfect-square|Easy|1754251200000
+Golang/704-binary-search|Easy|1754424000000
