@@ -40,3 +40,4 @@ Golang/704-binary-search|Easy|1754424000000
 Golang/412-fizz-buzz|Easy|1756411200000
 Golang/3663-find-the-least-frequent-digit|Easy|1756584000000
 Golang/3668-restore-finishing-order|Easy|1757188800000
+Golang/3683-earliest-time-to-finish-one-task|Easy|1758312000000
