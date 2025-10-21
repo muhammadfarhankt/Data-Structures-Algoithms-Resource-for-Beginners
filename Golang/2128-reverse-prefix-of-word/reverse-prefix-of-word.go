@@ -11,7 +11,7 @@ func reversePrefix(word string, ch byte) string {
         for i := 0; i <= pos; i++ {
             result += string(word[pos-i])
         }
-        fmt.Println(result)
+        // fmt.Println(result)
         result += word[pos+1:]
     } else {
         return word
