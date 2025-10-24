@@ -11,7 +11,7 @@ func findMissingAndRepeatedValues(grid [][]int) []int {
             }
         }
     }
-    fmt.Println(gridArr)
+    // fmt.Println(gridArr)
     for i := 1; i <= n*n; i++ {
         if gridArr[i-1] != true {
             b = i
