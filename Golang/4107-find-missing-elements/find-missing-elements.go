@@ -1,18 +1,17 @@
 func findMissingElements(nums []int) []int {
     min, max := nums[0], nums[0]
     output := make([]int, 0, 100)
-    numsMap := make(map[int]bool)
+    numsArr := make([]bool, 101)
     for _, num := range nums {
         if num > max {
             max = num
-        }
-        if num < min {
+        } else if num < min {
             min = num
         }
-        numsMap[num] = true
+        numsArr[num] = true
     }
     for i := min; i <= max; i++ {
-        if !numsMap[i] {
+        if !numsArr[i] {
             output = append(output, i)
         }
     }
