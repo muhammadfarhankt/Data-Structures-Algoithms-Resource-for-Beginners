@@ -1,0 +1,1 @@
+package main import "fmt" func main() { 	var str string	count := 0	fmt.Scan(&str)	var charArr [26]int	for i := 0; i < len(str); i++ {		char := str[i]		charArr[char-'a']++	}	for i := 0; i < 26; i++ {	    if charArr[i] != 0 {	        count++	    }	}	if count % 2 == 0 {	    fmt.Print("CHAT WITH HER!")	} else {	    fmt.Print("IGNORE HIM!")	}}
