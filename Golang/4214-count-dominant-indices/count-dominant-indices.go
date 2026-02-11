@@ -6,12 +6,12 @@ func dominantIndices(nums []int) int {
         avgArr[i] = sum / (length - i - 1)
     }
     for i := 0; i < length - 1; i++ {
-        fmt.Println(nums[i], avgArr[i])
+        // fmt.Println(nums[i], avgArr[i])
         if nums[i] > avgArr[i] {
             count++
         }
-        fmt.Println(count)
+        // fmt.Println(count)
     }
-    fmt.Println(avgArr)
+    // fmt.Println(avgArr)
     return count
 }
